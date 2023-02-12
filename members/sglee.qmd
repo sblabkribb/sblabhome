@@ -1,0 +1,26 @@
+---
+title: "Lee, Seung Goo(이승구)"
+subtitle: "Research Scientist, Director of Synthetic Biology and Bioengineering Research Institute (합성생물학연구소)"
+date: "2022-01-01"
+categories:
+  - Biocatalysis
+  - Microbiology
+  - Synthetic biology
+  - Metabolic engineering
+  - HT screening
+---
+
+![](images/image-700235287.png){fig-align="center"}
+
+
+# Experience
+
+- 20xx ~ 20xx, abcd
+
+
+# Education
+
+- 20xx ~ 20xx, abcd
+
+
+[KRIBB OpenAccess Researcher Profile](https://oak.kribb.re.kr/researcher-profile?ep=340)

@@ -1,0 +1,10 @@
+---
+title: "News in 2023"
+listing:
+  type: default
+  contents: 
+    - "news/2023/*.qmd"
+  sort: "date desc"
+  fields: [image, title, subtitle, date, author, categories]
+  categories: true
+---

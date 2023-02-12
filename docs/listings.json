@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/news2023.html",
+    "items": [
+      "/news/2023/KSEE_12th_conference.html",
+      "/news/2023/antibiotics-free.html",
+      "/news/2023/supply_chain_us_china.html"
+    ]
+  },
+  {
+    "listing": "/people_alumni.html",
+    "items": []
+  },
+  {
+    "listing": "/people_members.html",
+    "items": [
+      "/members/sglee.html",
+      "/members/dhlee.html",
+      "/members/haseong.html"
+    ]
+  },
+  {
+    "listing": "/publications2021.html",
+    "items": []
+  },
+  {
+    "listing": "/publications2022.html",
+    "items": [
+      "/publications/2022/choe_synthetic_3-utr_valves_for_optimal.html",
+      "/publications/2022/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html",
+      "/publications/2022/Yeom_Single_cell-based_screening_and_engineering.html"
+    ]
+  }
+]

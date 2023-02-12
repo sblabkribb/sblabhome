@@ -1,0 +1,25 @@
+---
+title: "Lee, Dae Hee(이대희)"
+subtitle: "Research Scientist, Director of Synthetic Biology Research Center (합성생물학연구센터)"
+date: "2022-02-01"
+categories:
+  - Metabolic engineering
+  - Systems biology
+  - Synthetic biology
+  - Microbiology
+  - CRISPR-X
+  - Chemical materials 
+---
+
+![](images/image-700235287.png){fig-align="center"}
+
+# Experience
+
+- 20xx ~ 20xx, abcd
+
+
+# Education
+
+- 20xx ~ 20xx, abcd
+
+[KRIBB OpenAccess Researcher Profile](https://oak.kribb.re.kr/researcher-profile?ep=309)

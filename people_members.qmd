@@ -1,0 +1,10 @@
+---
+title: "Members"
+listing:
+  type: grid
+  contents: 
+    - "members/*.qmd"
+  sort: "date"
+  fields: [image, title, subtitle]
+  categories: true
+---

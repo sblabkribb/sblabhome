@@ -1,0 +1,10 @@
+---
+title: "Members"
+listing:
+  type: grid
+  contents: 
+    - "alumni/*.qmd"
+  sort: "date desc"
+  fields: [image, title, author]
+  categories: true
+---

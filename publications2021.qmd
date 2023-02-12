@@ -1,0 +1,10 @@
+---
+title: "Publications in 2021"
+listing:
+  type: table
+  contents: 
+    - "publications/2021/*.qmd"
+  sort: "date desc"
+  fields: [image, date, title, author]
+  categories: true
+---

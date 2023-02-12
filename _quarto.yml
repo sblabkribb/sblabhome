@@ -3,15 +3,62 @@ project:
   output-dir: docs
 
 website:
-  title: "sblabhome"
+  title: "SBLab"
   navbar:
+    background: "#6B7AA1"
+    search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        file: index.qmd
+      - text: "People"
+        file: people_members.qmd
+      - text: Research
+        file: research.qmd
+      - text: "Publications"
+        file: publications2022.qmd
+      - text: News
+        file: news2023.qmd
+        
+  sidebar:
+    - title: "People"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Members"
+          file: people_members.qmd
+        - text: "Alumni"
+          file: people_alumni.qmd
+          
+    - title: "Publications"
+      style: "docked"
+      background: light
+      contents:
+        - text: "2022"
+          file: publications2022.qmd
+        - text: "2021"
+          file: publications2021.qmd
+        
+    - title: "News"
+      style: "docked"
+      background: light
+      contents:
+        - text: "2023"
+          file: news2023.qmd
+        - text: "2022"
+          file: news2022.qmd
+        # navigation items
+
+
+  page-footer: 
+    left: "Copyright 2023, Synthetic Biology Research Center at Korea Research Institute of Bioscience and Biotechnology, 125 Gwahak-ro, Yuseong-gu, Daejeon 34141" 
+    right: 
+      - icon: github
+        href: https://github.com/
+  
 
 format:
   html:
-    theme: cosmo
+    theme: default
     css: styles.css
     toc: true
 

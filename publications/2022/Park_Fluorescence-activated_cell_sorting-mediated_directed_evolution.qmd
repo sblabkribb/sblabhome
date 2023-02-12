@@ -1,0 +1,14 @@
+---
+title: "Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine"
+author: "Su-Bin Park, et. al."
+date: "2022-01-26"
+categories:
+  - chemical production
+  - directed evolution
+  - HT screening
+  - yeast  
+---
+
+Ceramides are a major lipid class known to play an essential role in maintaining skin function. Thus, efforts have been made to produce ceramides and ceramide precursors in large quantities for industrial applications. The yeast *Wickerhamomyces ciferrii*, a natural producer of the ceramide precursor tetraacetyl phytosphingosine (TAPS), has been isolated and engineered through various mutagenesis approaches aiming to enhance TAPS production. Herein, a high-throughput screening platform for isolating *W. ciferrii* mutants with improved TAPS production is described. A fluorescence-mediated reporter system that allows initial quantification of TAPS content in yeast cells based on BODIPY staining was developed. The optimal concentration of BODIPY for monitoring intracellular TAPS levels in *W. ciferrii* was 400 µg/L, as shown by a linear correlation between the actual TAPS levels and mean fluorescence intensities. Fluorescence-activated cell sorting was used for isolating high TAPS-producing strains from an ethyl methanesulfonate-induced mutant library. After several rounds of sorting, mutants exhibiting a high-TAPS phenotype were isolated, and the M40 strain with the highest TAPS titer was chosen for large-scale cultivation. The influence of different carbon sources for optimizing TAPS production was also evaluated using the M40 strain. A maximum production yield of 5.114 g/L of ceramide precursors, including TAPS and triacetyl phytosphingosine, was achieved with the supplementation of molasses. This novel platform enables rapid screening of high TAPS-producing strains using the common dye BODIPY and can be easily extended for the development of mutants with high productivity of ceramide precursors in yeast and other microorganisms.
+
+Korean Journal of Chemical Engineering. 39, 4, 1004--1010. DOI:10.1007/s11814-021-1017-8. IF3.146(2021y). 상위53.35% ISSN no. 19757220.

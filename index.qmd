@@ -1,5 +1,18 @@
 ---
-title: "sblabhome"
+title: "Synthetic Biology Laboratory at KRIBB"
+about: 
+  template: jolla
+  image: images/sblabmain.png
+  image-width: 15em
+  image-shape: round
 ---
 
-This is a SBLab website. This website is in construction new.
+::: {style="font-size:20px;"}
+> Establishment of a global-level technology for synthetic biology and biofoundry
+>
+> Development of innovative bio-material production technology
+:::
+
+\
+
+SBLab is one of the leading synthetic biology research groups in Synthetic Biology Research Center (SBRC) of Synthetic Biology and Bioengineering Research Institute (SBBRI) at Korea Research Institute of Bioscience and Biotechnology ([KRIBB](https://www.kribb.re.kr/kor/sub01/sub01_04_02_02_01.jsp))
