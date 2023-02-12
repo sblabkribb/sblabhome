@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-subtitle','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -192,141 +192,260 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="methanotroph,methane,CRISPR,phenol-inducible promoter,mevalonate" data-listing-date-sort="1675177200000" data-listing-file-modified-sort="1676188173543" data-listing-reading-time-sort="1.06">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html"> <img src="./publications/since_2020/images/image-679536989.png" class="thumnail-image"> </a></p>
 </div>
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-</th>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="methanotroph,methane,CRISPR,phenol-inducible promoter,mevalonate" data-listing-date-sort="1675177200000" data-listing-file-modified-sort="1676178505690" data-listing-reading-time-sort="1.075" data-listing-title-sort="A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery" data-listing-filename-sort="jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.qmd">
-<td class="listing-image">
-<img src="./publications/since_2020/images/image-1220142712.png" style="height: 40px;">
-</td>
-<td class="listing-date">
+<div class="body">
+<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html">
+<h3 class="no-anchor listing-title">
+A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery
+</h3>
+<div class="listing-subtitle">
+Chemical Engineering Journal
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('methanotroph'); return false;">
+methanotroph
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methane'); return false;">
+methane
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('CRISPR'); return false;">
+CRISPR
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('phenol-inducible promoter'); return false;">
+phenol-inducible promoter
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mevalonate'); return false;">
+mevalonate
+</div>
+</div>
+<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html"> </a>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html">
+<div class="listing-date">
 Feb 1, 2023
-</td>
-<td class="listing-title">
-<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="title">A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery</a>
-</td>
-<td class="listing-author">
+</div>
+<div class="listing-author">
 Jiyoeng Jeong, Tae Hyun Kim, et. al.
-</td>
-</tr>
-<tr data-index="1" data-categories="CRISPR,mevalonate,antibiotic-free" data-listing-date-sort="1670857200000" data-listing-file-modified-sort="1676178245830" data-listing-reading-time-sort="0.81" data-listing-title-sort="CRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids" data-listing-filename-sort="Seong Keun_crispr-basd_programmable_logic_inverter.qmd">
-<td class="listing-image">
-<img src="./publications/since_2020/images/image-1623920733.png" style="height: 40px;">
-</td>
-<td class="listing-date">
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="CRISPR,mevalonate,antibiotic-free" data-listing-date-sort="1670857200000" data-listing-file-modified-sort="1676188193289" data-listing-reading-time-sort="0.795">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html"> <img src="./publications/since_2020/images/image-1723482780.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html">
+<h3 class="no-anchor listing-title">
+CRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids
+</h3>
+<div class="listing-subtitle">
+Nucleic Acids Research
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('CRISPR'); return false;">
+CRISPR
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mevalonate'); return false;">
+mevalonate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('antibiotic-free'); return false;">
+antibiotic-free
+</div>
+</div>
+<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html"> </a>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html">
+<div class="listing-date">
 Dec 13, 2022
-</td>
-<td class="listing-title">
-<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="title">CRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids</a>
-</td>
-<td class="listing-author">
+</div>
+<div class="listing-author">
 Seong Keun Kim, Haseong Kim, et. al.
-</td>
-</tr>
-<tr data-index="2" data-categories="DNA parts,circuit design,synthetic biology,long-read sequencing,image analysis" data-listing-date-sort="1658761200000" data-listing-file-modified-sort="1676177924092" data-listing-reading-time-sort="0.735" data-listing-title-sort="Novel high-throughput DNA part characterization technique for synthetic biology." data-listing-filename-sort="seong-kun-novel-high-throughput-dna-part.qmd">
-<td class="listing-image">
-<img src="./publications/since_2020/images/image-123083010.png" style="height: 40px;">
-</td>
-<td class="listing-date">
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="DNA parts,circuit design,synthetic biology,long-read sequencing,image analysis" data-listing-date-sort="1658761200000" data-listing-file-modified-sort="1676188201630" data-listing-reading-time-sort="0.71">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html"> <img src="./publications/since_2020/images/image-123083010.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html">
+<h3 class="no-anchor listing-title">
+Novel high-throughput DNA part characterization technique for synthetic biology
+</h3>
+<div class="listing-subtitle">
+Journal of Microbiology and Biotechnology
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('DNA parts'); return false;">
+DNA parts
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('circuit design'); return false;">
+circuit design
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('synthetic biology'); return false;">
+synthetic biology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('long-read sequencing'); return false;">
+long-read sequencing
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('image analysis'); return false;">
+image analysis
+</div>
+</div>
+<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html"> </a>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html">
+<div class="listing-date">
 Jul 26, 2022
-</td>
-<td class="listing-title">
-<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="title">Novel high-throughput DNA part characterization technique for synthetic biology.</a>
-</td>
-<td class="listing-author">
+</div>
+<div class="listing-author">
 Seong-Kun Bak, et. al.
-</td>
-</tr>
-<tr data-index="3" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1676177752550" data-listing-reading-time-sort="1.01" data-listing-title-sort="Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli" data-listing-filename-sort="choe_synthetic_3-utr_valves_for_optimal.qmd">
-<td class="listing-image">
-<div class="table-img" style="height: 40px;">
-&nbsp;
 </div>
-</td>
-<td class="listing-date">
-Mar 31, 2022
-</td>
-<td class="listing-title">
-<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="title">Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli</a>
-</td>
-<td class="listing-author">
-Donghui Choe, et. al.
-</td>
-</tr>
-<tr data-index="4" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1643122800000" data-listing-file-modified-sort="1676177816405" data-listing-reading-time-sort="1.3" data-listing-title-sort="Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine" data-listing-filename-sort="Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.qmd">
-<td class="listing-image">
-<div class="table-img" style="height: 40px;">
-&nbsp;
+</a>
 </div>
-</td>
-<td class="listing-date">
-Jan 26, 2022
-</td>
-<td class="listing-title">
-<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="title">Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine</a>
-</td>
-<td class="listing-author">
-Su-Bin Park, et. al.
-</td>
-</tr>
-<tr data-index="5" data-categories="high-throughput screening,biosensor,genetic circuit,amidase" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1676177518555" data-listing-reading-time-sort="0.8" data-listing-title-sort="Single cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors." data-listing-filename-sort="Yeom_Single_cell-based_screening_and_engineering.qmd">
-<td class="listing-image">
-<img src="./publications/since_2020/images/image-1389633302.png" style="height: 40px;">
-</td>
-<td class="listing-date">
-Jan 7, 2022
-</td>
-<td class="listing-title">
-<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="title">Single cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors.</a>
-</td>
-<td class="listing-author">
-Soo-Jin Yeom, Kil Koang Kwon, et. al.
-</td>
-</tr>
-</tbody>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1676188064897" data-listing-reading-time-sort="0.995">
+<div class="thumbnail">
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html">
+<div class="thumbnail-image">
 
-</table>
+</div>
+</a><p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html"></a></p>
+</div>
+<div class="body">
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html">
+<h3 class="no-anchor listing-title">
+Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli
+</h3>
+<div class="listing-subtitle">
+Nucleic Acids Research
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('chemical production'); return false;">
+chemical production
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('directed evolution'); return false;">
+directed evolution
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('HT screening'); return false;">
+HT screening
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('yeast'); return false;">
+yeast
+</div>
+</div>
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html"> </a>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html">
+<div class="listing-date">
+Mar 31, 2022
+</div>
+<div class="listing-author">
+Donghui Choe, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1643122800000" data-listing-file-modified-sort="1676188185994" data-listing-reading-time-sort="1.295">
+<div class="thumbnail">
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html"></a></p>
+</div>
+<div class="body">
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html">
+<h3 class="no-anchor listing-title">
+Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine
+</h3>
+<div class="listing-subtitle">
+Korean Journal of Chemical Engineering
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('chemical production'); return false;">
+chemical production
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('directed evolution'); return false;">
+directed evolution
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('HT screening'); return false;">
+HT screening
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('yeast'); return false;">
+yeast
+</div>
+</div>
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html"> </a>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html">
+<div class="listing-date">
+Jan 26, 2022
+</div>
+<div class="listing-author">
+Su-Bin Park, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="high-throughput screening,biosensor,genetic circuit,amidase" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1676188265431" data-listing-reading-time-sort="0.77">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html"> <img src="./publications/since_2020/images/image-1089895453.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html">
+<h3 class="no-anchor listing-title">
+Single cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors
+</h3>
+<div class="listing-subtitle">
+Journal of agricultural and food chemistry
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('high-throughput screening'); return false;">
+high-throughput screening
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('biosensor'); return false;">
+biosensor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genetic circuit'); return false;">
+genetic circuit
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('amidase'); return false;">
+amidase
+</div>
+</div>
+<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html"> </a>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html">
+<div class="listing-date">
+Jan 7, 2022
+</div>
+<div class="listing-author">
+Soo-Jin Yeom, Kil Koang Kwon, et. al.
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

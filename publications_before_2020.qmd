@@ -1,10 +1,10 @@
 ---
 title: "Publications before 2020"
 listing:
-  type: table
+  type: default
   contents: 
     - "publications/before_2020/*.qmd"
   sort: "date desc"
-  fields: [image, date, title, author]
+  fields: [image, date, subtitle, title, author, categories]
   categories: true
 ---

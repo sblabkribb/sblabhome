@@ -9,6 +9,9 @@ categories:
   - synthetic biology
   - biofoundry
   - supply chain
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 ![](images/image-1969745131.png){fig-align="center"}

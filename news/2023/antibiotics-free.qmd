@@ -9,6 +9,9 @@ categories:
   - CRISPR
   - media
   - chemical product
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 ![](images/image-1547527248.png){fig-align="center"}
