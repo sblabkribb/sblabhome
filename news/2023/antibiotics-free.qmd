@@ -5,7 +5,7 @@ author: "이대희, 김성근"
 date: "2023-01-19"
 categories:
   - synthetic biology
-  - antibiotics free
+  - antibiotic-free
   - CRISPR
   - media
   - chemical product

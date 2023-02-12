@@ -1,9 +1,9 @@
 ---
-title: "Publications in 2022"
+title: "Publications since 2020"
 listing:
   type: table
   contents: 
-    - "publications/2022/*.qmd"
+    - "publications/since_2020/*.qmd"
   sort: "date desc"
   fields: [image, date, title, author]
   categories: true

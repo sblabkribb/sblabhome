@@ -15,7 +15,7 @@ website:
       - text: Research
         file: research.qmd
       - text: "Publications"
-        file: publications2022.qmd
+        file: publications_since_2020.qmd
       - text: News
         file: news2023.qmd
         
@@ -33,10 +33,10 @@ website:
       style: "docked"
       background: light
       contents:
-        - text: "2022"
-          file: publications2022.qmd
-        - text: "2021"
-          file: publications2021.qmd
+        - text: "Since 2020"
+          file: publications_since_2020.qmd
+        - text: "Before 2020"
+          file: publications_before_2020.qmd
         
     - title: "News"
       style: "docked"
