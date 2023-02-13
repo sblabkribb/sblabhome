@@ -1,0 +1,25 @@
+---
+title: "2022 대한민국 과학기술대전"
+subtitle: ""
+author: "김하성, 성원재, 김하늘"
+date: "2022-12-17"
+categories:
+  - science fair
+  - biofoundry
+  - kribb
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/image-438560421.png){fig-align="center"}
+
+지난 2021년에 이어 2022년에도 과기부주최 과학기술대전에 바이오파운드리 컨셉을 출품하였습니다. KRIBB 부스 단독으로 주요 공간에 배치되었고 차관님 방문 1순위였습니다. 특히 성원재 박사와 김하늘 연구원님이 수고 많이해주셨습니다.
+
+![KRIBB 부스 전경](images/image-232587085.png){fig-align="center"}
+
+![차관님께 바이오파운드리 설명하시는 원장님](images/image-747743606.png)
+
+![관람객분들께 바이오파운드리 설명하는 성원재 박사님](images/image-1841630360.png){fig-align="center"}
+
+[사이트](http://2022koreascitech.kr/){.external target="_blank"}

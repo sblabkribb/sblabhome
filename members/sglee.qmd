@@ -12,15 +12,12 @@ categories:
 
 ![](images/image-700235287.png){fig-align="center"}
 
-
 # Experience
 
-- 20xx ~ 20xx, abcd
-
+-   20xx \~ 20xx, abcd
 
 # Education
 
-- 20xx ~ 20xx, abcd
-
+-   20xx \~ 20xx, abcd
 
 [KRIBB OpenAccess Researcher Profile](https://oak.kribb.re.kr/researcher-profile?ep=340)

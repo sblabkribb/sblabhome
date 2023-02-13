@@ -1,8 +1,17 @@
 [
   {
+    "listing": "/news2022.html",
+    "items": [
+      "/news/2022/korea-science-technology-fair-2022.html",
+      "/news/2022/kribb-conference-synthetic-biology.html",
+      "/news/2022/d-threonine.html"
+    ]
+  },
+  {
     "listing": "/news2023.html",
     "items": [
       "/news/2023/KSEE_12th_conference.html",
+      "/news/2023/38th-kribb.html",
       "/news/2023/antibiotics-free.html",
       "/news/2023/supply_chain_us_china.html"
     ]
@@ -16,7 +25,9 @@
     "items": [
       "/members/sglee.html",
       "/members/dhlee.html",
-      "/members/haseong.html"
+      "/members/haseong.html",
+      "/members/Jhshin.html",
+      "/members/Seongkeun.html"
     ]
   },
   {
@@ -31,7 +42,8 @@
       "/publications/since_2020/seong-kun-novel-high-throughput-dna-part.html",
       "/publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html",
       "/publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html",
-      "/publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html"
+      "/publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html",
+      "/publications/since_2020/kilkoang_antagonistic_control_of_genetic.html"
     ]
   }
 ]

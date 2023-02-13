@@ -1,0 +1,21 @@
+---
+title: "생명연, '디지털 바이오의 핵심, 합성생물학' 컨퍼런스 성료!"
+subtitle: "충청신문 등"
+author: "이승구, 이대희"
+date: "2022-07-15"
+categories:
+  - kribb
+  - conference
+  - synthetic biology
+filters:
+   - lightbox
+lightbox: auto
+---
+
+이승구 박사님과 이대희 박사님께서 "디지털 바이오의 핵심, 합성생물학"을 주제로 2022 KRIBB 컨퍼런스에서 발표를 하셨습니다
+
+![의료용 미생물에 대한 발표를 하시는 이대희 박사님](images/image-1283610216.png){fig-align="center"}
+
+![원장님과 연사분들](images/image-892301888.png){fig-align="center"}
+
+[홍보자료](https://www.kribb.re.kr/kor/sub02/sub02_01_01_view.jsp?b_idx=28722&keyWord=&keyField=b_title&page=1&nowBlock=0&category=){.external target="_blank"}

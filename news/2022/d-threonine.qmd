@@ -1,0 +1,19 @@
+---
+title: "무궁무진한 대덕특구 촉매 기술 주목 D-트레오닌합성효소"
+subtitle: "대전일보"
+author: "이승구"
+date: "2022-01-18"
+categories:
+  - media
+  - d-threonine
+  - enzyme engineering
+filters:
+   - lightbox
+lightbox: auto
+---
+
+이승구 박사님과 박성현 연구원의 D-트레오닌 논문과 연구를 기반으로 이승구 박사님이 인터뷰하신 촉매기술 관련한 기사입니다.
+
+![](images/image-1492023577.png)
+
+[대전일보](http://www.daejonilbo.com/news/articleView.html?idxno=1503174){.external target="_blank"}

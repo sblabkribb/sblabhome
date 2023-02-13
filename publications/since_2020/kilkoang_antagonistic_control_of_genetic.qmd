@@ -1,0 +1,23 @@
+---
+title: "Antagonistic control of genetic circuit performance for rapid analysis of targeted enzyme activity in living cells"
+subtitle: "Frontiers in Molecular Biosciences"
+author: "Kil Koang Kwon, et. al."
+date: "2021-01-12"
+categories:
+  - genetic circuit
+  - dmpR
+  - high-throughput screening
+  - phenol-inducible promoter
+  
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/image-1298654492.png){fig-align="center"}
+
+Genetic circuits have been developed for quantitative measurement of enzyme activity, metabolic engineering of strain development, and dynamic regulation of microbial cells. A genetic circuit consists of several bio-elements, including enzymes and regulatory cassettes, that can generate the desired output signal, which is then used as a precise criterion for enzyme screening and engineering. Antagonists and inhibitors are small molecules with inhibitory effects on regulators and enzymes, respectively. In this study, an antagonist and an inhibitor were applied to a genetic circuit for a dynamic detection range. We developed a genetic circuit relying on regulators and enzymes, allowing for straightforward control of its output signal without additional genetic modification. We used *para*-nitrophenol and alanine as an antagonist of DmpR and inhibitor of tyrosine phenol-lyase, respectively. We show that the antagonist resets the detection range of the genetic circuit similarly to a resistor in an electrical logic circuit. These biological resistors in genetic circuits can be used as a rapid and precise controller of variable outputs with minimal circuit configuration.
+
+7, 599878. doi: 10.3389/fmolb.2020.599878 IF5.246(2020)
+
+[Original article](https://www.frontiersin.org/articles/10.3389/fmolb.2020.599878/full){.external target="_blank"}

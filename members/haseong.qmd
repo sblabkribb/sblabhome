@@ -1,5 +1,5 @@
 ---
-title: "Haseong Kim"
+title: "Kim, Haseong (김하성)"
 subtitle: "Research Scientist"
 date: "2023-02-11"
 categories:
