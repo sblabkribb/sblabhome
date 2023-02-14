@@ -10,14 +10,14 @@ categories:
   - HT screening
 ---
 
-![](images/image-700235287.png){fig-align="center"}
+![](images/image-1103113986.png){fig-align="center"}
 
 # Experience
 
--   20xx \~ 20xx, abcd
+-   
 
 # Education
 
--   20xx \~ 20xx, abcd
+-   
 
 [KRIBB OpenAccess Researcher Profile](https://oak.kribb.re.kr/researcher-profile?ep=340)

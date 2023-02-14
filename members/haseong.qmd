@@ -10,7 +10,7 @@ categories:
   - Lab automation
 ---
 
-![](images/image-700235287.png){fig-align="center"}
+![](images/image-602759650.png)
 
 # Experience
 

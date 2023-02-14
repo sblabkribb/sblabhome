@@ -11,15 +11,14 @@ categories:
   - Chemical materials 
 ---
 
-![](images/image-700235287.png){fig-align="center"}
+![](images/image-845723166.png){fig-align="center"}
 
 # Experience
 
-- 20xx ~ 20xx, abcd
-
+-   
 
 # Education
 
-- 20xx ~ 20xx, abcd
+-   
 
 [KRIBB OpenAccess Researcher Profile](https://oak.kribb.re.kr/researcher-profile?ep=309)

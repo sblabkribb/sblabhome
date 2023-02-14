@@ -1,0 +1,28 @@
+---
+title: "Hyewon Lee (이혜원)"
+subtitle: "Research scientist"
+date: "2023-02-14"
+categories:
+  - Synthetic biology
+  - C1 biotechnology
+  - Microbial gas fermentation 
+  - Microfluidics
+---
+
+![](images/image-505600416.png){fig-align="center"}
+
+# Experience
+
+-   2015 \~ , Research scientist, Synthetic Biology Research Center, Korea Research Institution of Bioscience and Biotechnology (KRIBB), Daejeon, Korea
+-   2023 \~ , Adjunct professor, University of Science and Technology (UST), Korea
+-   2013 \~ 2015, Postdoctoral Research Associate, Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge (MA), USA
+
+# Education
+
+-   2007 \~ 2013, PhD, School of Chemical & Biomolecular Engineering, Georgia Institute of Technology, Atlanta (GA), USA
+-   2005 \~ 2007, MS. in Department of Chemical and Biological Engineering, Korea University, Seoul, Korea
+-   2001 \~ 2005, BS. in Department of Chemical and Biological Engineering, Korea University, Seoul, Korea
+
+# Research Details
+
+[KRIBB OpenAccess Researcher Profile](https://oak.kribb.re.kr/researcher-profile?ep=388)
