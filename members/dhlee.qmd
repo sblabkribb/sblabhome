@@ -1,6 +1,6 @@
 ---
 title: "Lee, Dae Hee(이대희)"
-subtitle: "Research Scientist, Director of Synthetic Biology Research Center (합성생물학연구센터)"
+subtitle: "Director of Synthetic Biology Research Center (합성생물학연구센터), Senior researcher"
 date: "2022-02-01"
 categories:
   - Metabolic engineering

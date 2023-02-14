@@ -1,6 +1,6 @@
 ---
 title: "Lee, Seung Goo(이승구)"
-subtitle: "Research Scientist, Director of Synthetic Biology and Bioengineering Research Institute (합성생물학연구소)"
+subtitle: "Director of Synthetic Biology and Bioengineering Research Institute (합성생물학연구소), Senior researcher"
 date: "2022-01-01"
 categories:
   - Biocatalysis

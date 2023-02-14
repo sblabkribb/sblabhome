@@ -1,6 +1,6 @@
 ---
 title: "Kim Seong-keun (김성근)"
-subtitle: "Research Scientist"
+subtitle: "Senior researcher"
 date: "2023-02-13"
 categories:
   - Synthetic biology
