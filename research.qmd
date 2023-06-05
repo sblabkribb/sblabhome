@@ -5,11 +5,11 @@ filters:
 lightbox: auto
 ---
 
-# Major Research Areas
+# Research Summary
 
 ![](images/image-1730647569.png){fig-align="center" width="750"}
 
-### Platform technologies for genome design and cell construction
+# Platform technologies for genome design and cell construction
 
 -   Development of practical synthetic biology technologies for smart genetic circuit and genome synthesis
 
@@ -21,7 +21,7 @@ lightbox: auto
 
 ![](images/Genome_20230511_2.jpg)
 
-### Development of high-throughtput technology 
+# Development of high-throughtput technology 
 
 -   Development of molecular evolution technologies for industrially applicable enzyme engineering
 
@@ -29,7 +29,7 @@ lightbox: auto
 
 ![](images/HTS_20230512_2.jpg)
 
-### CRISPR technology based biomedical and industrial applications
+# CRISPR technology based biomedical and industrial applications
 
 -   Programmed probiotics with genetic circuits for diagnostics and therapeutics of inflammatory bowel disease
 
@@ -39,7 +39,7 @@ lightbox: auto
 
 ![](images/ME_20230512_2.jpg)
 
-### In responding to climate change and global warming 
+# In responding to climate change and global warming 
 
 -   Development of synthetic consortium of methanotrophs and heterotrophs to produce C4-chemicals from methane by mimicking the natural methane ecosystem
 
