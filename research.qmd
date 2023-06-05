@@ -13,11 +13,11 @@ lightbox: auto
 
 -   Development of practical synthetic biology technologies for smart genetic circuit and genome synthesis
 
--   Development of web-based Partbank database and standardization of bio-parts for biofoundry
-
 -   Development of DNA design software for high-accuracy DNA assembly
 
 -   Development of artificial genome synthesis technology through genome design and modular assembly
+
+-   Development of web-based Partbank database and standardization of bio-parts for biofoundry
 
 ![](images/Genome_20230511_2.jpg)
 
