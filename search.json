@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "news2023.html",
+    "href": "news2023.html",
+    "title": "News in 2023",
+    "section": "",
+    "text": "제12회 효소공학연구회 참석\n\n\nProspects of Enzyme and Protein Engineering for Advanced Biotechnology\n\n\n\n\nKSEE\n\n\nConference\n\n\n \n\n\n\n\nFeb 9, 2023\n\n\n이승구, 권길광, 이혜원, 신종혁 외\n\n\n\n\n\n\n  \n\n\n\n\n연구원 설립 38주년, 10년 근속, 우수연구원\n\n\n\n\n\n\n\nprize\n\n\nanniversary\n\n\nkribb\n\n\n \n\n\n\n\nFeb 1, 2023\n\n\n김하성, 김성근\n\n\n\n\n\n\n  \n\n\n\n\n항생제 없이 바이오공정에 쓰일 세포 선별 시스템 개발\n\n\n동아사이언스\n\n\n\n\nsynthetic biology\n\n\nantibiotic-free\n\n\nCRISPR\n\n\nmedia\n\n\nchemical product\n\n\n \n\n\n\n\nJan 19, 2023\n\n\n이대희, 김성근\n\n\n\n\n\n\n  \n\n\n\n\n미중 무역갈등과 공급망 문제, 한국에 여전히 부정적\n\n\n동아사이언스\n\n\n\n\nissue\n\n\nmedia\n\n\nsynthetic biology\n\n\nbiofoundry\n\n\nsupply chain\n\n\n \n\n\n\n\nJan 17, 2023\n\n\n정일영\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Summary",
+    "section": "",
+    "text": "Research Summary\n\n\n\n\n\n\n\nPlatform technologies for genome design and cell construction\n\nDevelopment of practical synthetic biology technologies for smart genetic circuit and genome synthesis\nDevelopment of DNA design software for high-accuracy DNA assembly\nDevelopment of artificial genome synthesis technology through genome design and modular assembly\nDevelopment of web-based Partbank database and standardization of bio-parts for biofoundry\n\n\n\n\n\n\n\n\nDevelopment of high-throughtput technology\n\nDevelopment of molecular evolution technologies for industrially applicable enzyme engineering\nDevelopment of high-speed and mass-volume biofoundry technologies to cope with climate change issues emerging as new threats\n\n\n\n\n\n\n\n\nCRISPR technology based biomedical and industrial applications\n\nProgrammed probiotics with genetic circuits for diagnostics and therapeutics of inflammatory bowel disease\nEstablishment and applications of CRISPR technology for metabolic engineering\nDevelopment of therapeutic protein secretion system in bacteroides\n\n\n\n\n\n\n\n\nIn responding to climate change and global warming\n\nDevelopment of synthetic consortium of methanotrophs and heterotrophs to produce C4-chemicals from methane by mimicking the natural methane ecosystem\nDevelopment of CRISPR system for engineering methanotroph and partner microbe\nDiscovery of biological resources degrading PET using genetically encoded biosensors\nDiscovery and characterization of novel plastic degrading strains and enzymes\nMass production of biodegradable plastic monomers using acid-tolerant microorganisms"
+  },
+  {
+    "objectID": "people_alumni.html",
+    "href": "people_alumni.html",
+    "title": "Members",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Synthetic Biology Laboratory at KRIBB",
+    "section": "",
+    "text": "Establishment of a global-level technology for synthetic biology and biofoundry\nDevelopment of innovative bio-material production technology\n\n\n\n\nSBLab is one of the leading synthetic biology research groups in Synthetic Biology Research Center (SBRC) of Synthetic Biology and Bioengineering Research Institute (SBBRI) at Korea Research Institute of Bioscience and Biotechnology (KRIBB)"
+  },
+  {
+    "objectID": "publications_before_2020.html",
+    "href": "publications_before_2020.html",
+    "title": "Publications before 2020",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "publications/since_2020/kilkoang_antagonistic_control_of_genetic.html",
+    "href": "publications/since_2020/kilkoang_antagonistic_control_of_genetic.html",
+    "title": "Antagonistic control of genetic circuit performance for rapid analysis of targeted enzyme activity in living cells",
+    "section": "",
+    "text": "Genetic circuits have been developed for quantitative measurement of enzyme activity, metabolic engineering of strain development, and dynamic regulation of microbial cells. A genetic circuit consists of several bio-elements, including enzymes and regulatory cassettes, that can generate the desired output signal, which is then used as a precise criterion for enzyme screening and engineering. Antagonists and inhibitors are small molecules with inhibitory effects on regulators and enzymes, respectively. In this study, an antagonist and an inhibitor were applied to a genetic circuit for a dynamic detection range. We developed a genetic circuit relying on regulators and enzymes, allowing for straightforward control of its output signal without additional genetic modification. We used para-nitrophenol and alanine as an antagonist of DmpR and inhibitor of tyrosine phenol-lyase, respectively. We show that the antagonist resets the detection range of the genetic circuit similarly to a resistor in an electrical logic circuit. These biological resistors in genetic circuits can be used as a rapid and precise controller of variable outputs with minimal circuit configuration.\n7, 599878. doi: 10.3389/fmolb.2020.599878 IF5.246(2020)\nOriginal article"
+  },
+  {
+    "objectID": "publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html",
+    "href": "publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html",
+    "title": "Single cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors",
+    "section": "",
+    "text": "Enantiomerically pure d-amino acids are important intermediates as chiral building blocks for peptidomimetics and semisynthetic antibiotics. Here, a transcriptional factor-based screening strategy was used for the rapid screening of d-stereospecific amino acid amidase via an enzyme-specific amidophenol substrate. We used a d-threonine amidophenyl derivative to produce 2-aminophenol that serves as a putative enzyme indicator in the presence of d-threonine amidases. Comparative analyses of known bacterial species indicated that several Bacillus strains produce amidase and form putative indicators in culture media. The estimated amidase was cloned and subjected to rapid directed evolution through biosensor cells. Consequently, we characterized the F119A mutation that significantly improved the catalytic activity toward d-alanine, d-threonine, and d-glutamate. Its beneficial effects were confirmed by higher conversions and recurrent applications of the mutant enzyme, compared to the wild-type. This study showed that rapid directed evolution with biosensors coupled to designed substrates is useful to develop biocatalytic processes.\n70, 1203-1211. DOI:10.1021/acs.jafc.1c05834. IF6.048(2021y)\nOriginal article"
+  },
+  {
+    "objectID": "publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html",
+    "href": "publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html",
+    "title": "A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery",
+    "section": "",
+    "text": "Methanotrophs are promising and sustainable cell factory platforms owing to their ability to convert the most potent greenhouse gas, methane to valuable bioproducts. Genetic engineering toolkits for methanotrophs are extremely limited. Here, we present a phenol-inducible promoter for the high-level expression of exogenous genes in methanotrophs. The phenol-inducible gene expression system showed high dose-dependency and homogeneity in methanotrophs. Using the phenol-inducible CRISPR-base editor (BE), we developed a highly efficient methanotroph genome editing system. The CRISPR-BE system efficiently introduced an early stop codon into the target gene, enabling one-step markerless genome editing in Methylococcus capsulatus Bath. We adopted this simple and efficient genome editing tool to produce mevalonate in the engineered M. capsulatus Bath. The native phosphoketolase pathway was reinforced in M. capsulatus Bath to increase the carbon flux via acetyl-CoA towards mevalonate. This engineered M. capsulatus Bath produced the maximum concentration of 2,090 mg/L mevalonate from methane, which is the highest amount of synthetic biochemicals produced from methane in methanotrophs. Here we present not only an efficient addition to the genetic engineering toolkit for methanotrophs but also a useful platform for the development of a methanotroph cell factory.\nIF16.744(2021y). eISSN no. 1873-3212. SCIE.\nOriginal article"
+  },
+  {
+    "objectID": "publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html",
+    "href": "publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html",
+    "title": "CRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids",
+    "section": "",
+    "text": "Antibiotics have been widely used for plasmid-mediated cell engineering. However, continued use of antibiotics increases the metabolic burden, horizontal gene transfer risks, and biomanufacturing costs. There are limited approaches to maintaining multiple plasmids without antibiotics. Herein, we developed an inverter cascade using CRISPRi by building a plasmid containing a single guide RNA (sgRNA) landing pad (pSLiP); this inhibited host cell growth by repressing an essential cellular gene. Anti-sgRNAs on separate plasmids restored cell growth by blocking the expression of growth-inhibitory sgRNAs in pSLiP. We maintained three plasmids in Escherichia coli with a single antibiotic selective marker. To completely avoid antibiotic use and maintain the CRISPRi-based logic inverter cascade, we created a novel D-glutamate auxotrophic E. coli. This enabled the stable maintenance of the plasmid without antibiotics, enhanced the production of the terpenoid, (−)-α-bisabolol, and generation of an antibiotic-resistance gene-free plasmid. CRISPRi is therefore widely applicable in genetic circuits and may allow for antibiotic-free biomanufacturing.\nIF19.160(2021y). ISSN no.0305-1048. SCIE.\nOriginal article"
+  },
+  {
+    "objectID": "publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html",
+    "href": "publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html",
+    "title": "Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli",
+    "section": "",
+    "text": "As the design of genetic circuitry for synthetic biology becomes more sophisticated, diverse regulatory bioparts are required. Despite their importance, well-characterized 3′-untranslated region (3′-UTR) bioparts are limited. Thus, transcript 3′-ends require further investigation to understand the underlying regulatory role and applications of the 3′-UTR. Here, we revisited the use of Term-Seq in the Escherichia coli strain K-12 MG1655 to enhance our understanding of 3′-UTR regulatory functions and to provide a diverse collection of tunable 3′-UTR bioparts with a wide termination strength range. Comprehensive analysis of 1,629 transcript 3′-end positions revealed multiple 3′-termini classes generated through transcription termination and RNA processing. The examination of individual Rho-independent terminators revealed a reduction in downstream gene expression over a wide range, which led to the design of novel synthetic metabolic valves that control metabolic fluxes in branched pathways. These synthetic metabolic valves determine the optimal balance of heterologous pathways for maximum target biochemical productivity. The regulatory strategy using 3′-UTR bioparts is advantageous over promoter- or 5′-UTR-based transcriptional control as it modulates gene expression at transcription levels without trans-acting element requirements (e.g. transcription factors). Our results provide a foundational platform for 3′-UTR engineering in synthetic biology applications.\nDOI:10.1093/nar/gkac206. IF19.160(2021y). Citation . ISSN no.0305-1048.\nOriginal article"
+  },
+  {
+    "objectID": "publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html",
+    "href": "publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html",
+    "title": "Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine",
+    "section": "",
+    "text": "Ceramides are a major lipid class known to play an essential role in maintaining skin function. Thus, efforts have been made to produce ceramides and ceramide precursors in large quantities for industrial applications. The yeast Wickerhamomyces ciferrii, a natural producer of the ceramide precursor tetraacetyl phytosphingosine (TAPS), has been isolated and engineered through various mutagenesis approaches aiming to enhance TAPS production. Herein, a high-throughput screening platform for isolating W. ciferrii mutants with improved TAPS production is described. A fluorescence-mediated reporter system that allows initial quantification of TAPS content in yeast cells based on BODIPY staining was developed. The optimal concentration of BODIPY for monitoring intracellular TAPS levels in W. ciferrii was 400 µg/L, as shown by a linear correlation between the actual TAPS levels and mean fluorescence intensities. Fluorescence-activated cell sorting was used for isolating high TAPS-producing strains from an ethyl methanesulfonate-induced mutant library. After several rounds of sorting, mutants exhibiting a high-TAPS phenotype were isolated, and the M40 strain with the highest TAPS titer was chosen for large-scale cultivation. The influence of different carbon sources for optimizing TAPS production was also evaluated using the M40 strain. A maximum production yield of 5.114 g/L of ceramide precursors, including TAPS and triacetyl phytosphingosine, was achieved with the supplementation of molasses. This novel platform enables rapid screening of high TAPS-producing strains using the common dye BODIPY and can be easily extended for the development of mutants with high productivity of ceramide precursors in yeast and other microorganisms.\nKorean Journal of Chemical Engineering. 39, 4, 1004–1010. DOI:10.1007/s11814-021-1017-8. IF3.146(2021y). ISSN no. 19757220.\nOriginal article"
+  },
+  {
+    "objectID": "publications/since_2020/seong-kun-novel-high-throughput-dna-part.html",
+    "href": "publications/since_2020/seong-kun-novel-high-throughput-dna-part.html",
+    "title": "Novel high-throughput DNA part characterization technique for synthetic biology",
+    "section": "",
+    "text": "This study presents a novel DNA part characterization technique that increases throughput by combinatorial DNA part assembly, solid plate-based quantitative fluorescence assay for phenotyping, and barcode tagging-based long-read sequencing for genotyping. We confirmed that the fluorescence intensities of colonies on plates were comparable to fluorescence at the single-cell level from a high-end, flow-cytometry device and developed a high-throughput image analysis pipeline. The barcode tagging-based long-read sequencing technique enabled rapid identification of all DNA parts and their combinations with a single sequencing experiment. Using our techniques, forty-four DNA parts (21 promoters and 23 RBSs) were successfully characterized in 72 h without any automated equipment. We anticipate that this high-throughput and easy-to-use part characterization technique will contribute to increasing part diversity and be useful for building genetic circuits and metabolic pathways in synthetic biology.\n32(8), 1026-1033. DOI: 10.4014/jmb.2207.07013. IF3.277(2021y). eISSN no. 1738-8872. SCIE.\nOriginal article"
+  },
+  {
+    "objectID": "publications_since_2020.html",
+    "href": "publications_since_2020.html",
+    "title": "Publications since 2020",
+    "section": "",
+    "text": "A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery\n\n\nChemical Engineering Journal\n\n\n\n\nmethanotroph\n\n\nmethane\n\n\nCRISPR\n\n\nphenol-inducible promoter\n\n\nmevalonate\n\n\n \n\n\n\n\nFeb 1, 2023\n\n\nJiyoeng Jeong, Tae Hyun Kim, et. al.\n\n\n\n\n\n\n  \n\n\n\n\nCRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids\n\n\nNucleic Acids Research\n\n\n\n\nCRISPR\n\n\nmevalonate\n\n\nantibiotic-free\n\n\n \n\n\n\n\nDec 13, 2022\n\n\nSeong Keun Kim, Haseong Kim, et. al.\n\n\n\n\n\n\n  \n\n\n\n\nNovel high-throughput DNA part characterization technique for synthetic biology\n\n\nJournal of Microbiology and Biotechnology\n\n\n\n\nDNA parts\n\n\ncircuit design\n\n\nsynthetic biology\n\n\nlong-read sequencing\n\n\nimage analysis\n\n\n \n\n\n\n\nJul 26, 2022\n\n\nSeong-Kun Bak, et. al.\n\n\n\n\n\n\n  \n\n\n\n\nSynthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli\n\n\nNucleic Acids Research\n\n\n\n\nchemical production\n\n\ndirected evolution\n\n\nHT screening\n\n\nyeast\n\n\n \n\n\n\n\nMar 31, 2022\n\n\nDonghui Choe, et. al.\n\n\n\n\n\n\n  \n\n\n\n\nFluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine\n\n\nKorean Journal of Chemical Engineering\n\n\n\n\nchemical production\n\n\ndirected evolution\n\n\nHT screening\n\n\nyeast\n\n\n \n\n\n\n\nJan 26, 2022\n\n\nSu-Bin Park, et. al.\n\n\n\n\n\n\n  \n\n\n\n\nSingle cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors\n\n\nJournal of agricultural and food chemistry\n\n\n\n\nhigh-throughput screening\n\n\nbiosensor\n\n\ngenetic circuit\n\n\namidase\n\n\n \n\n\n\n\nJan 7, 2022\n\n\nSoo-Jin Yeom, Kil Koang Kwon, et. al.\n\n\n\n\n\n\n  \n\n\n\n\nAntagonistic control of genetic circuit performance for rapid analysis of targeted enzyme activity in living cells\n\n\nFrontiers in Molecular Biosciences\n\n\n\n\ngenetic circuit\n\n\ndmpR\n\n\nhigh-throughput screening\n\n\nphenol-inducible promoter\n\n\n \n\n\n\n\nJan 12, 2021\n\n\nKil Koang Kwon, et. al.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/Kil_Koang_Kwon.html",
+    "href": "members/Kil_Koang_Kwon.html",
+    "title": "Kwon, Kil Koang (권길광)",
+    "section": "",
+    "text": "Experience\n\n2020 ~ , Research scientist, Korea Research Institution of Bioscience and Biotechnology (KRIBB)\n2018 ~ 2020, Post-Doctoral Researcher, Korea Research Institution of Bioscience and Biotechnology (KRIBB)\n\n\n\nEducation\n\n2011 ~ 2018, PhD, Genetic circuit-based enzyme engineering, Dept. of Chemical and Biomolecular engineering, Korea Advanced Institute of Science and Technology (KAIST), Korea\n2007 ~ 2009, MS. Microbial Fule Cell, Dept. of Microbial engineering, Konkuk University, Korea\n1999 ~ 2007, BS. Microbiology, Dept. of Microbial engineering, Konkuk University, Korea\n\n\n\nResearch Details\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "members/dhlee.html",
+    "href": "members/dhlee.html",
+    "title": "Lee, Dae Hee(이대희)",
+    "section": "",
+    "text": "Experience\n\n\n\n\n\nEducation\n\n\n\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "members/sglee.html",
+    "href": "members/sglee.html",
+    "title": "Lee, Seung Goo(이승구)",
+    "section": "",
+    "text": "Experience\n\n\n\n\n\nEducation\n\n\n\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "members/Jhshin.html",
+    "href": "members/Jhshin.html",
+    "title": "Shin, Jonghyeok (신종혁)",
+    "section": "",
+    "text": "Experience\n\n2022.11.14 – Present Research scientist, Korea Research Institution of Bioscience and Biotechnology (KRIBB)\n2022.07.01 – 2022.10.31 Postdoctoral research associate, Department of Molecular Biosciences (Prof. Andrew D. Ellington), University of Texas at Austin, Austin, TX, United States of America\n2019.07.16 – 2022.06.30 Postdoctoral research associate, Carl R. Woese Institute for Genomic Biology (Prof. Yong-Su Jin and Prof. Ting Lu), University of Illinois at Urbana-Champaign (UIUC), Urbana, IL, United States of America\n2019.03.01 – 2019.06.30 Postdoctoral researcher, Institute of Biotechnology and Bioengineering Research Units (SKKU Biotechnology Researcher), Sungkyunkwan University (SKKU), Suwon, Republic of Korea\n\n\n\nEducation\n\n2014 - 2019, Ph.D. of Science, Protein Engineering Lab, Dept. of Biotechnology and Bioengineering (Prof. Dae-Hyuk Kweon), Sungkyunkwan University (SKKU), Suwon, Republic of Korea\n2012 - 2013, Master of Science, Protein Engineering Lab, Dept. of Biotechnology and Bioengineering (Prof. Dae-Hyuk Kweon), Sungkyunkwan University (SKKU), Suwon, Republic of Korea\n2009 - 2012, Bachelor of Science, Genetic Engineering Major, Dept. of Genetic Engineering, Sungkyunkwan University (SKKU), Suwon, Republic of Korea\n\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "members/haseong.html",
+    "href": "members/haseong.html",
+    "title": "Kim, Haseong (김하성)",
+    "section": "",
+    "text": "Experience\n\n2012 ~ , Research scientist, Korea Research Institution of Bioscience and Biotechnology (KRIBB)\n2019 ~ , Associate professor, University of Science and Technology (UST)\n2022 ~ , Adjunct professor, Korea Advanced Institute of Science and Technology (KAIST)\n2006 ~ 2008, Research Assistant, Dept. of Statistics, Seoul National University\n1997 ~ 1999, Software Engineer, Bit Computer, Korea\n\n\n\nEducation\n\n2008 ~ 2012, PhD, Intelligent Systems & Networks Group, Imperial College London, UK\n2004 ~ 2006, MS. in Bioinformatics, Dept. of Statistics, Seoul National University, Korea\n1996 ~ 2004, BS. in Horticultural Science, College of Life Science, Korea University, Korea\n\n\n\nResearch Details\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "members/hwlee.html",
+    "href": "members/hwlee.html",
+    "title": "Hyewon Lee (이혜원)",
+    "section": "",
+    "text": "Experience\n\n2015 ~ , Research scientist, Synthetic Biology Research Center, Korea Research Institution of Bioscience and Biotechnology (KRIBB), Daejeon, Korea\n2023 ~ , Adjunct professor, University of Science and Technology (UST), Korea\n2013 ~ 2015, Postdoctoral Research Associate, Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge (MA), USA\n\n\n\nEducation\n\n2007 ~ 2013, PhD, School of Chemical & Biomolecular Engineering, Georgia Institute of Technology, Atlanta (GA), USA\n2005 ~ 2007, MS. in Department of Chemical and Biological Engineering, Korea University, Seoul, Korea\n2001 ~ 2005, BS. in Department of Chemical and Biological Engineering, Korea University, Seoul, Korea\n\n\n\nResearch Details\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "members/Seongkeun.html",
+    "href": "members/Seongkeun.html",
+    "title": "Kim Seong-keun (김성근)",
+    "section": "",
+    "text": "Research Details\nKRIBB OpenAccess Researcher Profile"
+  },
+  {
+    "objectID": "news2022.html",
+    "href": "news2022.html",
+    "title": "News in 2022",
+    "section": "",
+    "text": "2022 대한민국 과학기술대전\n\n\n\n\n\n\n\nscience fair\n\n\nbiofoundry\n\n\nkribb\n\n\n \n\n\n\n\nDec 17, 2022\n\n\n김하성, 성원재, 김하늘\n\n\n\n\n\n\n  \n\n\n\n\n생명연, ‘디지털 바이오의 핵심, 합성생물학’ 컨퍼런스 성료!\n\n\n충청신문 등\n\n\n\n\nkribb\n\n\nconference\n\n\nsynthetic biology\n\n\n \n\n\n\n\nJul 15, 2022\n\n\n이승구, 이대희\n\n\n\n\n\n\n  \n\n\n\n\n무궁무진한 대덕특구 촉매 기술 주목 D-트레오닌합성효소\n\n\n대전일보\n\n\n\n\nmedia\n\n\nd-threonine\n\n\nenzyme engineering\n\n\n \n\n\n\n\nJan 18, 2022\n\n\n이승구\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n안녕하세요\nimage.png images/image-317396062.png"
+  },
+  {
+    "objectID": "people_members.html",
+    "href": "people_members.html",
+    "title": "Members",
+    "section": "",
+    "text": "Lee, Seung Goo(이승구)\n\n\nDirector of Synthetic Biology and Bioengineering Research Institute (합성생물학연구소), Senior researcher\n\n\n\n\n\n\n\n\n\n\n\nLee, Dae Hee(이대희)\n\n\nDirector of Synthetic Biology Research Center (합성생물학연구센터), Senior researcher\n\n\n\n\n\n\n\n\n\n\n\nKwon, Kil Koang (권길광)\n\n\nSenior researcher\n\n\n\n\n\n\n\n\n\n\n\nKim, Haseong (김하성)\n\n\nSenior researcher\n\n\n\n\n\n\n\n\n\n\n\nShin, Jonghyeok (신종혁)\n\n\nSenior researcher\n\n\n\n\n\n\n\n\n\n\n\nKim Seong-keun (김성근)\n\n\nSenior researcher\n\n\n\n\n\n\n\n\n\n\n\nHyewon Lee (이혜원)\n\n\nSenior researcher\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/2022/kribb-conference-synthetic-biology.html",
+    "href": "news/2022/kribb-conference-synthetic-biology.html",
+    "title": "생명연, ‘디지털 바이오의 핵심, 합성생물학’ 컨퍼런스 성료!",
+    "section": "",
+    "text": "이승구 박사님과 이대희 박사님께서 “디지털 바이오의 핵심, 합성생물학”을 주제로 2022 KRIBB 컨퍼런스에서 발표를 하셨습니다\n\n\n\n의료용 미생물에 대한 발표를 하시는 이대희 박사님\n\n\n\n\n\n원장님과 연사분들\n\n\n홍보자료"
+  },
+  {
+    "objectID": "news/2022/d-threonine.html",
+    "href": "news/2022/d-threonine.html",
+    "title": "무궁무진한 대덕특구 촉매 기술 주목 D-트레오닌합성효소",
+    "section": "",
+    "text": "이승구 박사님과 박성현 연구원의 D-트레오닌 논문과 연구를 기반으로 이승구 박사님이 인터뷰하신 촉매기술 관련한 기사입니다.\n\n\n\n\n\n대전일보"
+  },
+  {
+    "objectID": "news/2022/korea-science-technology-fair-2022.html",
+    "href": "news/2022/korea-science-technology-fair-2022.html",
+    "title": "2022 대한민국 과학기술대전",
+    "section": "",
+    "text": "지난 2021년에 이어 2022년에도 과기부주최 과학기술대전에 바이오파운드리 컨셉을 출품하였습니다. KRIBB 부스 단독으로 주요 공간에 배치되었고 차관님 방문 1순위였습니다. 특히 성원재 박사와 김하늘 연구원님이 수고 많이해주셨습니다.\n\n\n\nKRIBB 부스 전경\n\n\n\n\n\n차관님께 바이오파운드리 설명하시는 원장님\n\n\n\n\n\n관람객분들께 바이오파운드리 설명하는 성원재 박사님\n\n\n사이트"
+  },
+  {
+    "objectID": "news/2023/antibiotics-free.html",
+    "href": "news/2023/antibiotics-free.html",
+    "title": "항생제 없이 바이오공정에 쓰일 세포 선별 시스템 개발",
+    "section": "",
+    "text": "우리 연구실 이대희, 김성근 박사님들께서 NAR 발표하신 논문으로 홍보가 되었습니다. 우수한 연구 수행하시느라 수고 많으셨고 축하드립니다.\n원문"
+  },
+  {
+    "objectID": "news/2023/supply_chain_us_china.html",
+    "href": "news/2023/supply_chain_us_china.html",
+    "title": "미중 무역갈등과 공급망 문제, 한국에 여전히 부정적",
+    "section": "",
+    "text": "우리 연구실에서 수행하는 합성생물학/바이오파운드리 연구와 관련있는 사회이슈로 공급망 문제에 관한 내용입니다. 아래 원문의 KISTEP의 정일영 박사님 의견 참고하세요.\n원문"
+  },
+  {
+    "objectID": "news/2023/KSEE_12th_conference.html",
+    "href": "news/2023/KSEE_12th_conference.html",
+    "title": "제12회 효소공학연구회 참석",
+    "section": "",
+    "text": "제12회 한국효소공학연구회 동계심포지엄에 다녀왔습니다. 참석자는 이승구, 권길광, 이혜원, 신종혁, 전은정, 박성현, 유병현, 이진주 입니다. 자세한 프로그램은 아래 링크를 참고하세요\n효소공학연구회 프로그램"
+  },
+  {
+    "objectID": "news/2023/38th-kribb.html",
+    "href": "news/2023/38th-kribb.html",
+    "title": "연구원 설립 38주년, 10년 근속, 우수연구원",
+    "section": "",
+    "text": "연구원 설립 38주년을 맞아 포상이 있었습니다. 김하성 박사님 (10년 근속), 김성근 박사님 (우수연구원) 두 분 축하드립니다!\n\n\n\n김성근 박사 우수연구원상\n\n\n\n\n\n김하성 박사 10년 근속"
+  }
+]
