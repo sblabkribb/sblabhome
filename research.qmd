@@ -5,19 +5,9 @@ filters:
 lightbox: auto
 ---
 
-# Research Area
-
--   Synthetic biology and metabolic engineering
-
--   Microbial cell factory and biocatalyst engineering for industrial applications
-
--   Bioinformatics and artificial intelligence with genetic devices
-
--   Building a biofoundry for automated high-throughput biomanufacturing
+# Major Research Areas
 
 ![](images/image-1730647569.png){fig-align="center" width="750"}
-
-# Major Projects
 
 ### Platform technologies for genome design and cell construction
 
@@ -29,7 +19,7 @@ lightbox: auto
 
 -   Development of artificial genome synthesis technology through genome design and modular assembly
 
-![](images/Genome_20230511.jpg)
+![](images/Genome_20230511_2.jpg)
 
 ### Development of high-throughtput technology 
 
@@ -37,7 +27,7 @@ lightbox: auto
 
 -   Development of high-speed and mass-volume biofoundry technologies to cope with climate change issues emerging as new threats
 
-![](images/HTS_20230512.jpg)
+![](images/HTS_20230512_2.jpg)
 
 ### CRISPR technology based biomedical and industrial applications
 
@@ -47,7 +37,7 @@ lightbox: auto
 
 -   Development of therapeutic protein secretion system in bacteroides
 
-![](images/ME_20230512.jpg)
+![](images/ME_20230512_2.jpg)
 
 ### In responding to climate change and global warming 
 
@@ -61,4 +51,4 @@ lightbox: auto
 
 -   Mass production of biodegradable plastic monomers using acid-tolerant microorganisms
 
-![](images/Methane_20230511.jpg)
+![](images/Methane_20230511_2.jpg)
