@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/news2022.html",
-    "items": [
-      "/news/2022/korea-science-technology-fair-2022.html",
-      "/news/2022/kribb-conference-synthetic-biology.html",
-      "/news/2022/d-threonine.html"
-    ]
-  },
-  {
     "listing": "/news2023.html",
     "items": [
       "/news/2023/KSEE_12th_conference.html",
@@ -19,18 +11,6 @@
   {
     "listing": "/people_alumni.html",
     "items": []
-  },
-  {
-    "listing": "/people_members.html",
-    "items": [
-      "/members/sglee.html",
-      "/members/dhlee.html",
-      "/members/Kil_Koang_Kwon.html",
-      "/members/haseong.html",
-      "/members/Jhshin.html",
-      "/members/Seongkeun.html",
-      "/members/hwlee.html"
-    ]
   },
   {
     "listing": "/publications_before_2020.html",
@@ -46,6 +26,26 @@
       "/publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html",
       "/publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html",
       "/publications/since_2020/kilkoang_antagonistic_control_of_genetic.html"
+    ]
+  },
+  {
+    "listing": "/news2022.html",
+    "items": [
+      "/news/2022/korea-science-technology-fair-2022.html",
+      "/news/2022/kribb-conference-synthetic-biology.html",
+      "/news/2022/d-threonine.html"
+    ]
+  },
+  {
+    "listing": "/people_members.html",
+    "items": [
+      "/members/sglee.html",
+      "/members/dhlee.html",
+      "/members/Kil_Koang_Kwon.html",
+      "/members/haseong.html",
+      "/members/Jhshin.html",
+      "/members/Seongkeun.html",
+      "/members/hwlee.html"
     ]
   }
 ]
