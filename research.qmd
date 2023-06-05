@@ -15,19 +15,13 @@ lightbox: auto
 
 -   Building a biofoundry for automated high-throughput biomanufacturing
 
-\
-
 ![](images/image-1730647569.png){fig-align="center" width="750"}
 
 # Major Projects
 
-### Platform technologies for synthetic biology and genome synthesis
+### Platform technologies for genome design and cell construction
 
 -   Development of practical synthetic biology technologies for smart genetic circuit and genome synthesis
-
--   Development of molecular evolution technologies for industrially applicable enzyme engineering
-
--   Development of high-speed and mass-volume biofoundry technologies to cope with climate change issues emerging as new threats
 
 -   Development of web-based Partbank database and standardization of bio-parts for biofoundry
 
@@ -35,15 +29,31 @@ lightbox: auto
 
 -   Development of artificial genome synthesis technology through genome design and modular assembly
 
-### Development of synthetic biology technology for biomedical application
+![](images/Genome_20230511.jpg)
+
+### Development of high-throughtput technology 
+
+-   Development of molecular evolution technologies for industrially applicable enzyme engineering
+
+-   Development of high-speed and mass-volume biofoundry technologies to cope with climate change issues emerging as new threats
+
+![](images/HTS_20230512.jpg)
+
+### CRISPR technology based biomedical and industrial applications
 
 -   Programmed probiotics with genetic circuits for diagnostics and therapeutics of inflammatory bowel disease
 
--   Establishment and application of CRISPR technology for bacterial therapy
+-   Establishment and applications of CRISPR technology for metabolic engineering
 
 -   Development of therapeutic protein secretion system in bacteroides
 
-### Development of plastic degradation and bio-plastic synthesis technologies
+![](images/ME_20230512.jpg)
+
+### In responding to climate change and global warming 
+
+-   Development of synthetic consortium of methanotrophs and heterotrophs to produce C4-chemicals from methane by mimicking the natural methane ecosystem
+
+-   Development of CRISPR system for engineering methanotroph and partner microbe
 
 -   Discovery of biological resources degrading PET using genetically encoded biosensors
 
@@ -51,8 +61,4 @@ lightbox: auto
 
 -   Mass production of biodegradable plastic monomers using acid-tolerant microorganisms
 
-### Development of microbial systems for the production of biochemicals from greenhouse gas
-
--   Development of synthetic consortium of methanotrophs and heterotrophs to produce C4-chemicals from methane by mimicking the natural methane ecosystem
-
--   Development of CRISPR system for engineering methanotroph and partner microbe
+![](images/Methane_20230511.jpg)
