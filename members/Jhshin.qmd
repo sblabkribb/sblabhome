@@ -1,6 +1,6 @@
 ---
 title: "Shin, Jonghyeok (신종혁)"
-subtitle: "Senior researcher"
+subtitle: "Research Scientist"
 date: "2023-02-13"
 categories:
   - Metabolic engineering
@@ -9,7 +9,7 @@ categories:
   - Microbiology
 ---
 
-![](images/image-184006257.png){fig-align="center"}
+![](images/clipboard-1737193751.png)
 
 # Experience
 
