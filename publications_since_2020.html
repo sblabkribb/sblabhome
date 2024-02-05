@@ -79,7 +79,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-date','listing-subtitle','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
@@ -210,7 +211,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="CRISPR">CRISPR <span class="quarto-category-count">(2)</span></div><div class="category" data-category="DNA parts">DNA parts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="HT screening">HT screening <span class="quarto-category-count">(2)</span></div><div class="category" data-category="amidase">amidase <span class="quarto-category-count">(1)</span></div><div class="category" data-category="antibiotic-free">antibiotic-free <span class="quarto-category-count">(1)</span></div><div class="category" data-category="biosensor">biosensor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="chemical production">chemical production <span class="quarto-category-count">(2)</span></div><div class="category" data-category="circuit design">circuit design <span class="quarto-category-count">(1)</span></div><div class="category" data-category="directed evolution">directed evolution <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dmpR">dmpR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genetic circuit">genetic circuit <span class="quarto-category-count">(2)</span></div><div class="category" data-category="high-throughput screening">high-throughput screening <span class="quarto-category-count">(2)</span></div><div class="category" data-category="image analysis">image analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="long-read sequencing">long-read sequencing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methane">methane <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methanotroph">methanotroph <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mevalonate">mevalonate <span class="quarto-category-count">(2)</span></div><div class="category" data-category="phenol-inducible promoter">phenol-inducible promoter <span class="quarto-category-count">(2)</span></div><div class="category" data-category="synthetic biology">synthetic biology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="yeast">yeast <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(31)</span></div><div class="category" data-category="(−)-α-bisabolol">(−)-α-bisabolol <span class="quarto-category-count">(1)</span></div><div class="category" data-category="(−)-α-bisabolol synthase">(−)-α-bisabolol synthase <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Acetate">Acetate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Adaptive laboratory evolution">Adaptive laboratory evolution <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Assays">Assays <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Bacteroides thetaiotaomicron">Bacteroides thetaiotaomicron <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Bio-conversion">Bio-conversion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Biosensor array">Biosensor array <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Boolean AND gate">Boolean AND gate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Butanol">Butanol <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Butyrate">Butyrate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CRISPR">CRISPR <span class="quarto-category-count">(2)</span></div><div class="category" data-category="CRISPR-base editor">CRISPR-base editor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Co-culture">Co-culture <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Commensal microbes">Commensal microbes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DNA parts">DNA parts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Deposition">Deposition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Designer probiotic">Designer probiotic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Escherichia coli">Escherichia coli <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Flux-balance analysis">Flux-balance analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genetically-encoded biosensors">Genetically-encoded biosensors <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genetics">Genetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genome-scale metabolic model">Genome-scale metabolic model <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Gold">Gold <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Gut inflammation">Gut inflammation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="HT screening">HT screening <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Heterotroph">Heterotroph <span class="quarto-category-count">(1)</span></div><div class="category" data-category="High-throughput screening system">High-throughput screening system <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Hydrogels">Hydrogels <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Lysinibacillus xylanilyticus">Lysinibacillus xylanilyticus <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Machine learning">Machine learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Methane">Methane <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Methanotroph">Methanotroph <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Mevalonate">Mevalonate <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Molecular identification">Molecular identification <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Nitrate sensing">Nitrate sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Phenol-inducible promoter">Phenol-inducible promoter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Phosphoketolase">Phosphoketolase <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Protein engineering">Protein engineering <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Thiosulfate sensing">Thiosulfate sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Whole cell biosensor">Whole cell biosensor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="amidase">amidase <span class="quarto-category-count">(3)</span></div><div class="category" data-category="antagonist">antagonist <span class="quarto-category-count">(1)</span></div><div class="category" data-category="antibiotic-free">antibiotic-free <span class="quarto-category-count">(1)</span></div><div class="category" data-category="artichoke">artichoke <span class="quarto-category-count">(1)</span></div><div class="category" data-category="artificial substrate">artificial substrate <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bacteriophage T4 lysozyme">bacteriophage T4 lysozyme <span class="quarto-category-count">(1)</span></div><div class="category" data-category="biosensor">biosensor <span class="quarto-category-count">(4)</span></div><div class="category" data-category="catalytic mechanism">catalytic mechanism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cell–cell communication">cell–cell communication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="chemical production">chemical production <span class="quarto-category-count">(3)</span></div><div class="category" data-category="circuit design">circuit design <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d-amino acid">d-amino acid <span class="quarto-category-count">(2)</span></div><div class="category" data-category="d-threonine aldolase">d-threonine aldolase <span class="quarto-category-count">(1)</span></div><div class="category" data-category="directed evolution">directed evolution <span class="quarto-category-count">(4)</span></div><div class="category" data-category="dmpR">dmpR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fermentation">fermentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="flow cytometry">flow cytometry <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genetic circuit">genetic circuit <span class="quarto-category-count">(5)</span></div><div class="category" data-category="genetically encoded biosensor">genetically encoded biosensor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="high-throughput screening">high-throughput screening <span class="quarto-category-count">(3)</span></div><div class="category" data-category="image analysis">image analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="inhibitor">inhibitor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="large-scale phenotyping">large-scale phenotyping <span class="quarto-category-count">(1)</span></div><div class="category" data-category="long-read sequencing">long-read sequencing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methane">methane <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methanol dehydrogenase">methanol dehydrogenase <span class="quarto-category-count">(2)</span></div><div class="category" data-category="methanol oxidation">methanol oxidation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methanotroph">methanotroph <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methylotrophy">methylotrophy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mevalonate">mevalonate <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mevalonate pathway">mevalonate pathway <span class="quarto-category-count">(1)</span></div><div class="category" data-category="microfluidics">microfluidics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="null">null <span class="quarto-category-count">(7)</span></div><div class="category" data-category="phenol-inducible promoter">phenol-inducible promoter <span class="quarto-category-count">(2)</span></div><div class="category" data-category="phenolic compound">phenolic compound <span class="quarto-category-count">(1)</span></div><div class="category" data-category="protein engineering">protein engineering <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rational enzyme engineering">rational enzyme engineering <span class="quarto-category-count">(1)</span></div><div class="category" data-category="resistor">resistor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="screening">screening <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stereoselectivity">stereoselectivity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="synthetic biology">synthetic biology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="synthetic methylotrophy">synthetic methylotrophy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="transcriptional factor-based biosensors">transcriptional factor-based biosensors <span class="quarto-category-count">(1)</span></div><div class="category" data-category="yeast">yeast <span class="quarto-category-count">(3)</span></div><div class="category" data-category="β-hydroxy-α-amino acid">β-hydroxy-α-amino acid <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -239,7 +240,37 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="methanotroph,methane,CRISPR,phenol-inducible promoter,mevalonate" data-listing-date-sort="1675177200000" data-listing-file-modified-sort="1707108331372" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
+<div class="quarto-post image-right" data-index="0" data-categories="" data-listing-date-sort="1675177200000" data-listing-file-modified-sort="1707120758995" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2022_CRISPR-based.html" class="no-external"></a></p><a href="./publications/since_2020/2022_CRISPR-based.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-0956ED57.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2022_CRISPR-based.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2022_CRISPR-based.html" class="no-external">A highly efficient and versatile genetic engineering toolkit for a methanotroph-based biorefinery</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2022_CRISPR-based.html" class="no-external">Chemical Engineering Journal</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2022_CRISPR-based.html" class="no-external">
+<div class="listing-date">
+Feb 1, 2023
+</div>
+<div class="listing-author">
+Jiyeong Jeong, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="methanotroph,methane,CRISPR,phenol-inducible promoter,mevalonate" data-listing-date-sort="1675177200000" data-listing-file-modified-sort="1707108331372" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external"></a></p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external">
 <p class="card-img-top"><img src="publications\since_2020\images\image-679536989.png"  class="thumbnail-image card-img"/></p>
@@ -281,7 +312,7 @@ Jiyoeng Jeong, Tae Hyun Kim, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="CRISPR,mevalonate,antibiotic-free" data-listing-date-sort="1670857200000" data-listing-file-modified-sort="1707108331349" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<div class="quarto-post image-right" data-index="2" data-categories="CRISPR,mevalonate,antibiotic-free" data-listing-date-sort="1670857200000" data-listing-file-modified-sort="1707108331349" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external"></a></p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external">
 <p class="card-img-top"><img src="publications\since_2020\images\image-1723482780.png"  class="thumbnail-image card-img"/></p>
@@ -317,7 +348,7 @@ Seong Keun Kim, Haseong Kim, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="DNA parts,circuit design,synthetic biology,long-read sequencing,image analysis" data-listing-date-sort="1658761200000" data-listing-file-modified-sort="1707108331373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
+<div class="quarto-post image-right" data-index="3" data-categories="DNA parts,circuit design,synthetic biology,long-read sequencing,image analysis" data-listing-date-sort="1658761200000" data-listing-file-modified-sort="1707108331373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external"></a></p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external">
 <p class="card-img-top"><img src="publications\since_2020\images\image-123083010.png"  class="thumbnail-image card-img"/></p>
@@ -359,7 +390,91 @@ Seong-Kun Bak, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1707108331351" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
+<div class="quarto-post image-right" data-index="4" data-categories="Methane,Methanotroph,Phenol-inducible promoter,CRISPR-base editor,Phosphoketolase,Mevalonate" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1707120758955" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2022_A-highly-efficinet.html" class="no-external"></a></p><a href="./publications/since_2020/2022_A-highly-efficinet.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-10C47593.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2022_A-highly-efficinet.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2022_A-highly-efficinet.html" class="no-external">Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2022_A-highly-efficinet.html" class="no-external">Nucleic Acids Research</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Methane'); return false;">
+Methane
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Methanotroph'); return false;">
+Methanotroph
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Phenol-inducible promoter'); return false;">
+Phenol-inducible promoter
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('CRISPR-base editor'); return false;">
+CRISPR-base editor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Phosphoketolase'); return false;">
+Phosphoketolase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Mevalonate'); return false;">
+Mevalonate
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2022_A-highly-efficinet.html" class="no-external">
+<div class="listing-date">
+Mar 31, 2022
+</div>
+<div class="listing-author">
+Donghui Choe, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1707120759118" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2022_Synthetic-3-UTR.html" class="no-external"></a></p><a href="./publications/since_2020/2022_Synthetic-3-UTR.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-AA85AF07.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2022_Synthetic-3-UTR.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2022_Synthetic-3-UTR.html" class="no-external">Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2022_Synthetic-3-UTR.html" class="no-external">Nucleic Acids Research</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('chemical production'); return false;">
+chemical production
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('directed evolution'); return false;">
+directed evolution
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('HT screening'); return false;">
+HT screening
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('yeast'); return false;">
+yeast
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2022_Synthetic-3-UTR.html" class="no-external">
+<div class="listing-date">
+Mar 31, 2022
+</div>
+<div class="listing-author">
+Donghui Choe, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1707108331351" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external"></a></p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -398,7 +513,7 @@ Donghui Choe, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1643122800000" data-listing-file-modified-sort="1707108331347" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="259">
+<div class="quarto-post image-right" data-index="7" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1643122800000" data-listing-file-modified-sort="1707108331347" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="259">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external"></a></p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -437,7 +552,97 @@ Su-Bin Park, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="high-throughput screening,biosensor,genetic circuit,amidase" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1707108331350" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<div class="quarto-post image-right" data-index="8" data-categories="amidase,d-amino acid,artificial substrate,biosensor,HT screening,genetic circuit" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1707120759036" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2022_Novel-HT-DNA.html" class="no-external"></a></p><a href="./publications/since_2020/2022_Novel-HT-DNA.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-6544D962.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2022_Novel-HT-DNA.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2022_Novel-HT-DNA.html" class="no-external">Single-Cell-Based Screening and Engineering of D‑Amino Acid Amidohydrolases Using Artificial Amidophenol Substrates and Microbial Biosensors</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2022_Novel-HT-DNA.html" class="no-external">2022 American Chemical Society</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('amidase'); return false;">
+amidase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('d-amino acid'); return false;">
+d-amino acid
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('artificial substrate'); return false;">
+artificial substrate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('biosensor'); return false;">
+biosensor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('HT screening'); return false;">
+HT screening
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genetic circuit'); return false;">
+genetic circuit
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2022_Novel-HT-DNA.html" class="no-external">
+<div class="listing-date">
+Jan 7, 2022
+</div>
+<div class="listing-author">
+Soo-Jin Yeom, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="amidase,d-amino acid,artificial substrate,biosensor,genetic circuit,high-throughput screening" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1707120759078" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2022_Single-cell-based.html" class="no-external"></a></p><a href="./publications/since_2020/2022_Single-cell-based.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-6422D291.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2022_Single-cell-based.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2022_Single-cell-based.html" class="no-external">Single-Cell-Based Screening and Engineering of D‑Amino Acid Amidohydrolases Using Artificial Amidophenol Substrates and Microbial Biosensors</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2022_Single-cell-based.html" class="no-external">ACS publications</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('amidase'); return false;">
+amidase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('d-amino acid'); return false;">
+d-amino acid
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('artificial substrate'); return false;">
+artificial substrate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('biosensor'); return false;">
+biosensor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genetic circuit'); return false;">
+genetic circuit
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('high-throughput screening'); return false;">
+high-throughput screening
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2022_Single-cell-based.html" class="no-external">
+<div class="listing-date">
+Jan 7, 2022
+</div>
+<div class="listing-author">
+Soo-Jin Yeom, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="high-throughput screening,biosensor,genetic circuit,amidase" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1707108331350" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external"></a></p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external">
 <p class="card-img-top"><img src="publications\since_2020\images\image-1089895453.png"  class="thumbnail-image card-img"/></p>
@@ -476,7 +681,328 @@ Soo-Jin Yeom, Kil Koang Kwon, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="genetic circuit,dmpR,high-throughput screening,phenol-inducible promoter" data-listing-date-sort="1610377200000" data-listing-file-modified-sort="1707108331373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
+<div class="quarto-post image-right" data-index="11" data-categories="Bacteroides thetaiotaomicron,Genome-scale metabolic model,Flux-balance analysis,Butyrate,Commensal microbes" data-listing-date-sort="1633705200000" data-listing-file-modified-sort="1707120758832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_Engineering-BT.html" class="no-external"></a></p><a href="./publications/since_2020/2021_Engineering-BT.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-0472D315.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_Engineering-BT.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_Engineering-BT.html" class="no-external">Engineering Bacteroides thetaiotaomicron to produce non-native butyrate based on a genome-scale metabolic model-guided design</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_Engineering-BT.html" class="no-external">Metabolic Engineering</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Bacteroides thetaiotaomicron'); return false;">
+Bacteroides thetaiotaomicron
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Genome-scale metabolic model'); return false;">
+Genome-scale metabolic model
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Flux-balance analysis'); return false;">
+Flux-balance analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Butyrate'); return false;">
+Butyrate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Commensal microbes'); return false;">
+Commensal microbes
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_Engineering-BT.html" class="no-external">
+<div class="listing-date">
+Oct 9, 2021
+</div>
+<div class="listing-author">
+Byung-Kwan Cho, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="" data-listing-date-sort="1633705200000" data-listing-file-modified-sort="1707120758873" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_online-Adaptive.html" class="no-external"></a></p><a href="./publications/since_2020/2021_online-Adaptive.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-B20AC43A.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_online-Adaptive.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_online-Adaptive.html" class="no-external">Droplet contact-based spheroid transfer technique as a multi-step assay tool for spheroid arrays</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_online-Adaptive.html" class="no-external">Royal Society of Chemistry</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_online-Adaptive.html" class="no-external">
+<div class="listing-date">
+Oct 9, 2021
+</div>
+<div class="listing-author">
+Hwisoo Kim, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="" data-listing-date-sort="1630508400000" data-listing-file-modified-sort="1707120758793" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_Droplet-contact.html" class="no-external"></a></p><a href="./publications/since_2020/2021_Droplet-contact.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-0B8BA72B.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_Droplet-contact.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_Droplet-contact.html" class="no-external">Droplet contact-based spheroid transfer technique as a multi-step assay tool for spheroid arrays</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_Droplet-contact.html" class="no-external">Royal Society of Chemistry</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_Droplet-contact.html" class="no-external">
+<div class="listing-date">
+Sep 2, 2021
+</div>
+<div class="listing-author">
+Hwisoo Kim, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-categories="Co-culture,Methane,Methanotroph,Heterotroph,Mevalonate,Bio-conversion" data-listing-date-sort="1626706800000" data-listing-file-modified-sort="1707120758914" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_yntrophin-co.html" class="no-external"></a></p><a href="./publications/since_2020/2021_yntrophin-co.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2021_yntrophin-co.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_yntrophin-co.html" class="no-external">Syntrophic co-culture of a methanotroph and heterotroph for the efficient conversion of methane to mevalonate</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_yntrophin-co.html" class="no-external">Metabolic Engineering</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Co-culture'); return false;">
+Co-culture
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Methane'); return false;">
+Methane
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Methanotroph'); return false;">
+Methanotroph
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Heterotroph'); return false;">
+Heterotroph
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Mevalonate'); return false;">
+Mevalonate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Bio-conversion'); return false;">
+Bio-conversion
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_yntrophin-co.html" class="no-external">
+<div class="listing-date">
+Jul 20, 2021
+</div>
+<div class="listing-author">
+Hyewon Lee, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-categories="(−)-α-bisabolol,(−)-α-bisabolol synthase,Escherichia coli,fermentation,mevalonate pathway,artichoke" data-listing-date-sort="1626534000000" data-listing-file-modified-sort="1707120758714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_bisabolol-production.html" class="no-external"></a></p><a href="./publications/since_2020/2021_bisabolol-production.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-A1C315C1.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_bisabolol-production.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_bisabolol-production.html" class="no-external">(−)-α-Bisabolol Production in Engineered Escherichia coli Expressing a Novel (−)-α-Bisabolol Synthase from the Globe Artichoke Cynara cardunculus var. Scolymus</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_bisabolol-production.html" class="no-external">American Chemical Society</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('(−)-α-bisabolol'); return false;">
+(−)-α-bisabolol
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('(−)-α-bisabolol synthase'); return false;">
+(−)-α-bisabolol synthase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Escherichia coli'); return false;">
+Escherichia coli
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('fermentation'); return false;">
+fermentation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mevalonate pathway'); return false;">
+mevalonate pathway
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('artichoke'); return false;">
+artichoke
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_bisabolol-production.html" class="no-external">
+<div class="listing-date">
+Jul 18, 2021
+</div>
+<div class="listing-author">
+Hyun Seung Lim, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-categories="d-threonine aldolase,stereoselectivity,β-hydroxy-α-amino acid,catalytic mechanism,protein engineering" data-listing-date-sort="1622473200000" data-listing-file-modified-sort="1707120758754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_Cb-selectibe.html" class="no-external"></a></p><a href="./publications/since_2020/2021_Cb-selectibe.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-9C81A99B.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_Cb-selectibe.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_Cb-selectibe.html" class="no-external">Cβ-Selective Aldol Addition of D‑Threonine Aldolase by Spatial Constraint of Aldehyde Binding</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_Cb-selectibe.html" class="no-external">American Chemical Society</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('d-threonine aldolase'); return false;">
+d-threonine aldolase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('stereoselectivity'); return false;">
+stereoselectivity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('β-hydroxy-α-amino acid'); return false;">
+β-hydroxy-α-amino acid
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('catalytic mechanism'); return false;">
+catalytic mechanism
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('protein engineering'); return false;">
+protein engineering
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_Cb-selectibe.html" class="no-external">
+<div class="listing-date">
+Jun 1, 2021
+</div>
+<div class="listing-author">
+Sung-Hyun Park, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-categories="synthetic methylotrophy,methanol dehydrogenase,Lysinibacillus xylanilyticus,biosensor,screening" data-listing-date-sort="1612191600000" data-listing-file-modified-sort="1707120758671" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_Biosensor-based.html" class="no-external"></a></p><a href="./publications/since_2020/2021_Biosensor-based.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-E3F905AD.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_Biosensor-based.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_Biosensor-based.html" class="no-external">Biosensor-Based Directed Evolution of Methanol Dehydrogenase from Lysinibacillus xylanilyticus</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_Biosensor-based.html" class="no-external">Journal of Molecular Sciences</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('synthetic methylotrophy'); return false;">
+synthetic methylotrophy
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methanol dehydrogenase'); return false;">
+methanol dehydrogenase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Lysinibacillus xylanilyticus'); return false;">
+Lysinibacillus xylanilyticus
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('biosensor'); return false;">
+biosensor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('screening'); return false;">
+screening
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_Biosensor-based.html" class="no-external">
+<div class="listing-date">
+Feb 2, 2021
+</div>
+<div class="listing-author">
+Thien-Kim Le, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-categories="inhibitor,antagonist,genetic circuit,phenolic compound,flow cytometry,resistor" data-listing-date-sort="1610377200000" data-listing-file-modified-sort="1707120758629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2021_Antagonistic.html" class="no-external"></a></p><a href="./publications/since_2020/2021_Antagonistic.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-D6288E9B.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2021_Antagonistic.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2021_Antagonistic.html" class="no-external">Antagonistic Control of Genetic Circuit Performance for Rapid Analysis of Targeted Enzyme Activityin Living Cells</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2021_Antagonistic.html" class="no-external">Frontiers in Molecular Biosciences</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('inhibitor'); return false;">
+inhibitor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('antagonist'); return false;">
+antagonist
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genetic circuit'); return false;">
+genetic circuit
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('phenolic compound'); return false;">
+phenolic compound
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('flow cytometry'); return false;">
+flow cytometry
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('resistor'); return false;">
+resistor
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2021_Antagonistic.html" class="no-external">
+<div class="listing-date">
+Jan 12, 2021
+</div>
+<div class="listing-author">
+Kil Koang Kwon, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-categories="genetic circuit,dmpR,high-throughput screening,phenol-inducible promoter" data-listing-date-sort="1610377200000" data-listing-file-modified-sort="1707108331373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
 <div class="thumbnail">
 <p><a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external"></a></p><a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external">
 <p class="card-img-top"><img src="publications\since_2020\images\image-1298654492.png"  class="thumbnail-image card-img"/></p>
@@ -515,10 +1041,427 @@ Kil Koang Kwon, et. al.
 </a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="20" data-categories="bacteriophage T4 lysozyme,genetically encoded biosensor,directed evolution" data-listing-date-sort="1605538800000" data-listing-file-modified-sort="1707120758403" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Genetically-encoded.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Genetically-encoded.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-71CA4B65.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2020_Genetically-encoded.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Genetically-encoded.html" class="no-external">Genetically Encoded Biosensor-Based Screening for Directed Bacteriophage T4 Lysozyme Evolution</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Genetically-encoded.html" class="no-external">International Journal of Molecular Sciences</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bacteriophage T4 lysozyme'); return false;">
+bacteriophage T4 lysozyme
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('genetically encoded biosensor'); return false;">
+genetically encoded biosensor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('directed evolution'); return false;">
+directed evolution
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Genetically-encoded.html" class="no-external">
+<div class="listing-date">
+Nov 17, 2020
+</div>
+<div class="listing-author">
+Seung-Gyun Woo, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-categories="Whole cell biosensor,Gut inflammation,Designer probiotic,Nitrate sensing,Thiosulfate sensing,Boolean AND gate" data-listing-date-sort="1605366000000" data-listing-file-modified-sort="1707120758155" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_A designed_whole.html" class="no-external"></a></p><a href="./publications/since_2020/2020_A designed_whole.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_A designed_whole.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_A designed_whole.html" class="no-external">A designed whole-cell biosensor for live diagnosis of gut inflammation through nitrate sensing</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_A designed_whole.html" class="no-external">Biosensors and Bioelectronics</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Whole cell biosensor'); return false;">
+Whole cell biosensor
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Gut inflammation'); return false;">
+Gut inflammation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Designer probiotic'); return false;">
+Designer probiotic
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Nitrate sensing'); return false;">
+Nitrate sensing
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Thiosulfate sensing'); return false;">
+Thiosulfate sensing
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Boolean AND gate'); return false;">
+Boolean AND gate
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_A designed_whole.html" class="no-external">
+<div class="listing-date">
+Nov 15, 2020
+</div>
+<div class="listing-author">
+Seung-Gyun Woo, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="22" data-categories="Genetically-encoded biosensors,Machine learning,Molecular identification,Protein engineering,Biosensor array,High-throughput screening system" data-listing-date-sort="1601478000000" data-listing-file-modified-sort="1707120758496" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="263">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Machine-learning.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Machine-learning.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_Machine-learning.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Machine-learning.html" class="no-external">Machine learning linked evolutionary biosensor array for highly sensitive and specific molecular identification</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Machine-learning.html" class="no-external">Biosensors and Bioelectronics</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Genetically-encoded biosensors'); return false;">
+Genetically-encoded biosensors
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Machine learning'); return false;">
+Machine learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Molecular identification'); return false;">
+Molecular identification
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Protein engineering'); return false;">
+Protein engineering
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Biosensor array'); return false;">
+Biosensor array
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('High-throughput screening system'); return false;">
+High-throughput screening system
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Machine-learning.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2020
+</div>
+<div class="listing-author">
+Haseong Kim, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="23" data-categories="Adaptive laboratory evolution,Escherichia coli,Acetate,Butanol,Mevalonate" data-listing-date-sort="1599836400000" data-listing-file-modified-sort="1707120758232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="191">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Adaptive-laboratory.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Adaptive-laboratory.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\paste-4C9AF932.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2020_Adaptive-laboratory.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Adaptive-laboratory.html" class="no-external">Adaptive laboratory evolution of Escherichia coli lacking cellular byproduct formation for enhanced acetate utilization through compensatory ATP consumption</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Adaptive-laboratory.html" class="no-external">Metabolic Engineering</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Adaptive laboratory evolution'); return false;">
+Adaptive laboratory evolution
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Escherichia coli'); return false;">
+Escherichia coli
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Acetate'); return false;">
+Acetate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Butanol'); return false;">
+Butanol
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Mevalonate'); return false;">
+Mevalonate
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Adaptive-laboratory.html" class="no-external">
+<div class="listing-date">
+Sep 12, 2020
+</div>
+<div class="listing-author">
+Wonjae Seong, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="24" data-categories="" data-listing-date-sort="1590937200000" data-listing-file-modified-sort="1707120758591" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Tetrameric-architecture.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Tetrameric-architecture.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_Tetrameric-architecture.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Tetrameric-architecture.html" class="no-external">Tetrameric architecture of an active phenol-bound form of the AAA+ transcriptional regulator DmpR</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Tetrameric-architecture.html" class="no-external">Nature Communications</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Tetrameric-architecture.html" class="no-external">
+<div class="listing-date">
+Jun 1, 2020
+</div>
+<div class="listing-author">
+Kwang-Hyun Park, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="25" data-categories="synthetic biology,transcriptional factor-based biosensors,microfluidics,large-scale phenotyping,cell–cell communication" data-listing-date-sort="1587654000000" data-listing-file-modified-sort="1707120758550" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="192">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Sensitive-and-rapid.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Sensitive-and-rapid.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_Sensitive-and-rapid.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Sensitive-and-rapid.html" class="no-external">Sensitive and Rapid Phenotyping of Microbes With Soluble Methane Monooxygenase Using a Droplet-Based Assay</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Sensitive-and-rapid.html" class="no-external">Frontiers in Bioengineering and Biotechnology</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('synthetic biology'); return false;">
+synthetic biology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('transcriptional factor-based biosensors'); return false;">
+transcriptional factor-based biosensors
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('microfluidics'); return false;">
+microfluidics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('large-scale phenotyping'); return false;">
+large-scale phenotyping
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cell–cell communication'); return false;">
+cell–cell communication
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Sensitive-and-rapid.html" class="no-external">
+<div class="listing-date">
+Apr 24, 2020
+</div>
+<div class="listing-author">
+Hyewon Lee, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="26" data-categories="" data-listing-date-sort="1586271600000" data-listing-file-modified-sort="1707120758192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="174">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Acclimation-of-bacterial.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Acclimation-of-bacterial.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_Acclimation-of-bacterial.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Acclimation-of-bacterial.html" class="no-external">Acclimation of bacterial cell state for high-throughput enzyme engineering using a DmpRdependent transcriptional activation system</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Acclimation-of-bacterial.html" class="no-external">Scientific Reports</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Acclimation-of-bacterial.html" class="no-external">
+<div class="listing-date">
+Apr 8, 2020
+</div>
+<div class="listing-author">
+Kil Koang Kwon, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="27" data-categories="Assays,Deposition,Genetics,Gold,Hydrogels" data-listing-date-sort="1584975600000" data-listing-file-modified-sort="1707120758444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="155">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Hydrogen-based.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Hydrogen-based.html" class="no-external">
+<p class="card-img-top"><img data-src="publications\since_2020\images\paste-525EB509.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2020_Hydrogen-based.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Hydrogen-based.html" class="no-external">Hydrogel-Based Colorimetric Assay for Multiplexed MicroRNA Detection in a Microfluidic Device</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Hydrogen-based.html" class="no-external">Journal of the American Chemical Society</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Assays'); return false;">
+Assays
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Deposition'); return false;">
+Deposition
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Genetics'); return false;">
+Genetics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Gold'); return false;">
+Gold
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Hydrogels'); return false;">
+Hydrogels
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Hydrogen-based.html" class="no-external">
+<div class="listing-date">
+Mar 24, 2020
+</div>
+<div class="listing-author">
+Hyewon Lee, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="28" data-categories="" data-listing-date-sort="1582297200000" data-listing-file-modified-sort="1707120758316" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_CRISPRi-gene.html" class="no-external"></a></p><a href="./publications/since_2020/2020_CRISPRi-gene.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_CRISPRi-gene.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_CRISPRi-gene.html" class="no-external">CRISPR interference-mediated gene regulation in Pseudomonas putida KT2440</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_CRISPRi-gene.html" class="no-external">Journal of Applied Microbiology</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_CRISPRi-gene.html" class="no-external">
+<div class="listing-date">
+Feb 22, 2020
+</div>
+<div class="listing-author">
+Seong Keun Kim, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="29" data-categories="methanol dehydrogenase,rational enzyme engineering,Lysinibacillus xylanilyticus,methylotrophy,methanol oxidation" data-listing-date-sort="1581606000000" data-listing-file-modified-sort="1707120758357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Discovery-and-Biochemical.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Discovery-and-Biochemical.html" class="no-external">
+<p class="card-img-top"><img data-src="publications\since_2020\images\paste-F7D4093E.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/2020_Discovery-and-Biochemical.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Discovery-and-Biochemical.html" class="no-external">Discovery and Biochemical Characterization of a Methanol Dehydrogenase From Lysinibacillus xylanilyticus</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Discovery-and-Biochemical.html" class="no-external">Microbiol Resour Announc</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('methanol dehydrogenase'); return false;">
+methanol dehydrogenase
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('rational enzyme engineering'); return false;">
+rational enzyme engineering
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Lysinibacillus xylanilyticus'); return false;">
+Lysinibacillus xylanilyticus
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methylotrophy'); return false;">
+methylotrophy
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methanol oxidation'); return false;">
+methanol oxidation
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Discovery-and-Biochemical.html" class="no-external">
+<div class="listing-date">
+Feb 14, 2020
+</div>
+<div class="listing-author">
+Jin-Young Lee, et. al.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="30" data-categories="" data-listing-date-sort="1580914800000" data-listing-file-modified-sort="1707120758276" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="thumbnail">
+<p><a href="./publications/since_2020/2020_Complete-genome.html" class="no-external"></a></p><a href="./publications/since_2020/2020_Complete-genome.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/2020_Complete-genome.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/since_2020/2020_Complete-genome.html" class="no-external">Complete Genome Sequence of Methylomonas koyamae LM6, a Potential Aerobic Methanotroph</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/since_2020/2020_Complete-genome.html" class="no-external">Microbiol Resour Announc</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory(''); return false;">
+
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/since_2020/2020_Complete-genome.html" class="no-external">
+<div class="listing-date">
+Feb 6, 2020
+</div>
+<div class="listing-author">
+Dae-Hee Lee, et. al.
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
