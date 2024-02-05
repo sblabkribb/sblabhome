@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.361">
+<meta name="generator" content="quarto-1.4.542">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -94,6 +101,33 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -101,9 +135,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">SBLab</span>
     </a>
@@ -115,46 +149,46 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people_members.html" rel="" target="">
- <span class="menu-text">People</span></a>
+    <a class="nav-link" href="./people_members.html"> 
+<span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications_since_2020.html" rel="" target="" aria-current="page">
- <span class="menu-text">Publications</span></a>
+    <a class="nav-link active" href="./publications_since_2020.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news2023.html" rel="" target="">
- <span class="menu-text">News</span></a>
+    <a class="nav-link" href="./news2023.html"> 
+<span class="menu-text">News</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./publications_since_2020.html">Since 2020</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./publications_since_2020.html">Since 2020</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -172,7 +206,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
@@ -195,7 +229,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 
 
@@ -203,19 +239,19 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="methanotroph,methane,CRISPR,phenol-inducible promoter,mevalonate" data-listing-date-sort="1675209600000" data-listing-file-modified-sort="1685940156426" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="0" data-categories="methanotroph,methane,CRISPR,phenol-inducible promoter,mevalonate" data-listing-date-sort="1675177200000" data-listing-file-modified-sort="1707108331372" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html"> <p class="card-img-top"><img src="publications/since_2020/images/image-679536989.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external"></a></p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\image-679536989.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html">
 <h3 class="no-anchor listing-title">
-A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery
+<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external">A highly efficient and versatile genetic engineering toolkit for a methanotrph-based biorefinery</a>
 </h3>
 <div class="listing-subtitle">
-Chemical Engineering Journal
+<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external">Chemical Engineering Journal</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('methanotroph'); return false;">
 methanotroph
@@ -233,10 +269,9 @@ phenol-inducible promoter
 mevalonate
 </div>
 </div>
-<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html">
+<a href="./publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html" class="no-external">
 <div class="listing-date">
 Feb 1, 2023
 </div>
@@ -246,19 +281,19 @@ Jiyoeng Jeong, Tae Hyun Kim, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="CRISPR,mevalonate,antibiotic-free" data-listing-date-sort="1670889600000" data-listing-file-modified-sort="1685940156414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-categories="CRISPR,mevalonate,antibiotic-free" data-listing-date-sort="1670857200000" data-listing-file-modified-sort="1707108331349" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html"> <p class="card-img-top"><img src="publications/since_2020/images/image-1723482780.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external"></a></p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\image-1723482780.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html">
 <h3 class="no-anchor listing-title">
-CRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids
+<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external">CRISPRi-based programmable logic inverter cascade for antibiotic-free selection and maintenance of multiple plasmids</a>
 </h3>
 <div class="listing-subtitle">
-Nucleic Acids Research
+<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external">Nucleic Acids Research</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('CRISPR'); return false;">
 CRISPR
@@ -270,10 +305,9 @@ mevalonate
 antibiotic-free
 </div>
 </div>
-<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html">
+<a href="./publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html" class="no-external">
 <div class="listing-date">
 Dec 13, 2022
 </div>
@@ -283,19 +317,19 @@ Seong Keun Kim, Haseong Kim, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="DNA parts,circuit design,synthetic biology,long-read sequencing,image analysis" data-listing-date-sort="1658793600000" data-listing-file-modified-sort="1685940156426" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="2" data-categories="DNA parts,circuit design,synthetic biology,long-read sequencing,image analysis" data-listing-date-sort="1658761200000" data-listing-file-modified-sort="1707108331373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html"> <p class="card-img-top"><img src="publications/since_2020/images/image-123083010.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external"></a></p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\image-123083010.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html">
 <h3 class="no-anchor listing-title">
-Novel high-throughput DNA part characterization technique for synthetic biology
+<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external">Novel high-throughput DNA part characterization technique for synthetic biology</a>
 </h3>
 <div class="listing-subtitle">
-Journal of Microbiology and Biotechnology
+<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external">Journal of Microbiology and Biotechnology</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('DNA parts'); return false;">
 DNA parts
@@ -313,10 +347,9 @@ long-read sequencing
 image analysis
 </div>
 </div>
-<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html">
+<a href="./publications/since_2020/seong-kun-novel-high-throughput-dna-part.html" class="no-external">
 <div class="listing-date">
 Jul 26, 2022
 </div>
@@ -326,19 +359,19 @@ Seong-Kun Bak, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648684800000" data-listing-file-modified-sort="1685940156414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="3" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1648652400000" data-listing-file-modified-sort="1707108331351" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external"></a></p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html">
 <h3 class="no-anchor listing-title">
-Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external">Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli</a>
 </h3>
 <div class="listing-subtitle">
-Nucleic Acids Research
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external">Nucleic Acids Research</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('chemical production'); return false;">
 chemical production
@@ -353,10 +386,9 @@ HT screening
 yeast
 </div>
 </div>
-<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html">
+<a href="./publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html" class="no-external">
 <div class="listing-date">
 Mar 31, 2022
 </div>
@@ -366,19 +398,19 @@ Donghui Choe, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1643155200000" data-listing-file-modified-sort="1685940156414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="4" data-categories="chemical production,directed evolution,HT screening,yeast" data-listing-date-sort="1643122800000" data-listing-file-modified-sort="1707108331347" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="259">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external"></a></p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html">
 <h3 class="no-anchor listing-title">
-Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external">Fluorescence-activated cell sorting-mediated directed evolution of Wickerhamomyces ciferrii for enhanced production of tetraacetyl phytosphingosine</a>
 </h3>
 <div class="listing-subtitle">
-Korean Journal of Chemical Engineering
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external">Korean Journal of Chemical Engineering</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('chemical production'); return false;">
 chemical production
@@ -393,10 +425,9 @@ HT screening
 yeast
 </div>
 </div>
-<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html">
+<a href="./publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html" class="no-external">
 <div class="listing-date">
 Jan 26, 2022
 </div>
@@ -406,19 +437,19 @@ Su-Bin Park, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="high-throughput screening,biosensor,genetic circuit,amidase" data-listing-date-sort="1641513600000" data-listing-file-modified-sort="1685940156414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="5" data-categories="high-throughput screening,biosensor,genetic circuit,amidase" data-listing-date-sort="1641481200000" data-listing-file-modified-sort="1707108331350" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html"> <p class="card-img-top"><img src="publications/since_2020/images/image-1089895453.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external"></a></p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\image-1089895453.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html">
 <h3 class="no-anchor listing-title">
-Single cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors
+<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external">Single cell-based screening and engineering of D-amino acid amidohydrolases using artificial amidophenol substrates and microbial biosensors</a>
 </h3>
 <div class="listing-subtitle">
-Journal of agricultural and food chemistry
+<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external">Journal of agricultural and food chemistry</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('high-throughput screening'); return false;">
 high-throughput screening
@@ -433,10 +464,9 @@ genetic circuit
 amidase
 </div>
 </div>
-<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html">
+<a href="./publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html" class="no-external">
 <div class="listing-date">
 Jan 7, 2022
 </div>
@@ -446,19 +476,19 @@ Soo-Jin Yeom, Kil Koang Kwon, et. al.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="genetic circuit,dmpR,high-throughput screening,phenol-inducible promoter" data-listing-date-sort="1610409600000" data-listing-file-modified-sort="1685940156426" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="6" data-categories="genetic circuit,dmpR,high-throughput screening,phenol-inducible promoter" data-listing-date-sort="1610377200000" data-listing-file-modified-sort="1707108331373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
 <div class="thumbnail">
-<p><a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html"> <p class="card-img-top"><img src="publications/since_2020/images/image-1298654492.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external"></a></p><a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external">
+<p class="card-img-top"><img src="publications\since_2020\images\image-1298654492.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html">
 <h3 class="no-anchor listing-title">
-Antagonistic control of genetic circuit performance for rapid analysis of targeted enzyme activity in living cells
+<a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external">Antagonistic control of genetic circuit performance for rapid analysis of targeted enzyme activity in living cells</a>
 </h3>
 <div class="listing-subtitle">
-Frontiers in Molecular Biosciences
+<a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external">Frontiers in Molecular Biosciences</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('genetic circuit'); return false;">
 genetic circuit
@@ -473,10 +503,9 @@ high-throughput screening
 phenol-inducible promoter
 </div>
 </div>
-<a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html"> </a>
 </div>
 <div class="metadata">
-<a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html">
+<a href="./publications/since_2020/kilkoang_antagonistic_control_of_genetic.html" class="no-external">
 <div class="listing-date">
 Jan 12, 2021
 </div>
@@ -570,10 +599,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -583,8 +611,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -597,6 +634,120 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -640,6 +791,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -665,6 +817,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -727,7 +905,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">Copyright 2023, Synthetic Biology Research Center at Korea Research Institute of Bioscience and Biotechnology, 125 Gwahak-ro, Yuseong-gu, Daejeon 34141</div>   
+    <div class="nav-footer-left">
+<p>Copyright 2023, Synthetic Biology Research Center at Korea Research Institute of Bioscience and Biotechnology, 125 Gwahak-ro, Yuseong-gu, Daejeon 34141</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
@@ -743,6 +923,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 

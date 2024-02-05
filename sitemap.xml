@@ -1,123 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sblab.or.kr/news2023.html</loc>
-    <lastmod>2023-06-05T04:43:53.305Z</lastmod>
-  </url>
-  <url>
     <loc>https://sblab.or.kr/research.html</loc>
-    <lastmod>2023-06-05T04:43:54.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/people_alumni.html</loc>
-    <lastmod>2023-06-05T04:43:54.541Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/index.html</loc>
-    <lastmod>2023-06-05T04:43:54.901Z</lastmod>
+    <lastmod>2024-02-05T04:45:31.376Z</lastmod>
   </url>
   <url>
     <loc>https://sblab.or.kr/publications_before_2020.html</loc>
-    <lastmod>2023-06-05T04:43:55.257Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/publications/since_2020/kilkoang_antagonistic_control_of_genetic.html</loc>
-    <lastmod>2023-06-05T04:43:55.677Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html</loc>
-    <lastmod>2023-06-05T04:43:56.093Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html</loc>
-    <lastmod>2023-06-05T04:43:56.501Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html</loc>
-    <lastmod>2023-06-05T04:43:56.937Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html</loc>
-    <lastmod>2023-06-05T04:43:57.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html</loc>
-    <lastmod>2023-06-05T04:43:57.801Z</lastmod>
+    <lastmod>2024-02-05T04:45:31.374Z</lastmod>
   </url>
   <url>
     <loc>https://sblab.or.kr/publications/since_2020/seong-kun-novel-high-throughput-dna-part.html</loc>
-    <lastmod>2023-06-05T04:43:58.193Z</lastmod>
+    <lastmod>2024-02-05T04:45:31.373Z</lastmod>
   </url>
   <url>
-    <loc>https://sblab.or.kr/publications_since_2020.html</loc>
-    <lastmod>2023-06-05T04:43:59.261Z</lastmod>
+    <loc>https://sblab.or.kr/publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html</loc>
+    <lastmod>2024-02-05T04:45:31.347Z</lastmod>
   </url>
   <url>
-    <loc>https://sblab.or.kr/members/Kil_Koang_Kwon.html</loc>
-    <lastmod>2023-06-05T04:43:59.629Z</lastmod>
+    <loc>https://sblab.or.kr/publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html</loc>
+    <lastmod>2024-02-05T04:45:31.372Z</lastmod>
   </url>
   <url>
-    <loc>https://sblab.or.kr/members/dhlee.html</loc>
-    <lastmod>2023-06-05T04:43:59.985Z</lastmod>
+    <loc>https://sblab.or.kr/publications/before_2020/blank.html</loc>
+    <lastmod>2024-02-05T04:52:43.676Z</lastmod>
   </url>
   <url>
-    <loc>https://sblab.or.kr/members/sglee.html</loc>
-    <lastmod>2023-06-05T04:44:00.401Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/members/Jhshin.html</loc>
-    <lastmod>2023-06-05T04:44:00.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/members/haseong.html</loc>
-    <lastmod>2023-06-05T04:44:01.177Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/members/hwlee.html</loc>
-    <lastmod>2023-06-05T04:44:01.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/members/Seongkeun.html</loc>
-    <lastmod>2023-06-05T04:44:01.917Z</lastmod>
+    <loc>https://sblab.or.kr/people_alumni.html</loc>
+    <lastmod>2024-02-05T04:45:31.344Z</lastmod>
   </url>
   <url>
     <loc>https://sblab.or.kr/news2022.html</loc>
-    <lastmod>2023-06-05T04:44:02.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/about.html</loc>
-    <lastmod>2023-06-05T04:44:03.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/people_members.html</loc>
-    <lastmod>2023-06-05T04:44:04.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/news/2022/kribb-conference-synthetic-biology.html</loc>
-    <lastmod>2023-06-05T04:44:04.902Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/news/2022/d-threonine.html</loc>
-    <lastmod>2023-06-05T04:44:05.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/news/2022/korea-science-technology-fair-2022.html</loc>
-    <lastmod>2023-06-05T04:44:05.690Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/news/2023/antibiotics-free.html</loc>
-    <lastmod>2023-06-05T04:44:06.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sblab.or.kr/news/2023/supply_chain_us_china.html</loc>
-    <lastmod>2023-06-05T04:44:06.586Z</lastmod>
+    <lastmod>2024-02-05T04:45:31.342Z</lastmod>
   </url>
   <url>
     <loc>https://sblab.or.kr/news/2023/KSEE_12th_conference.html</loc>
-    <lastmod>2023-06-05T04:44:06.962Z</lastmod>
+    <lastmod>2024-02-05T04:55:42.344Z</lastmod>
   </url>
   <url>
     <loc>https://sblab.or.kr/news/2023/38th-kribb.html</loc>
-    <lastmod>2023-06-05T04:44:07.326Z</lastmod>
+    <lastmod>2024-02-05T04:45:31.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/news/2022/korea-science-technology-fair-2022.html</loc>
+    <lastmod>2024-02-05T04:45:31.321Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/sglee.html</loc>
+    <lastmod>2024-02-05T04:45:31.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/Kil_Koang_Kwon.html</loc>
+    <lastmod>2024-02-05T04:45:31.208Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/hwlee.html</loc>
+    <lastmod>2024-02-05T04:45:31.212Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/dhlee.html</loc>
+    <lastmod>2024-02-05T04:45:31.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/alumni/blank.html</loc>
+    <lastmod>2024-02-05T04:52:43.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/about.html</loc>
+    <lastmod>2024-02-05T04:45:31.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/index.html</loc>
+    <lastmod>2024-02-05T04:45:31.206Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/haseong.html</loc>
+    <lastmod>2024-02-05T04:45:31.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/Jhshin.html</loc>
+    <lastmod>2024-02-05T04:48:01.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/members/Seongkeun.html</loc>
+    <lastmod>2024-02-05T04:45:31.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/news/2022/d-threonine.html</loc>
+    <lastmod>2024-02-05T04:45:31.245Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/news/2022/kribb-conference-synthetic-biology.html</loc>
+    <lastmod>2024-02-05T04:45:31.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/news/2023/antibiotics-free.html</loc>
+    <lastmod>2024-02-05T04:45:31.325Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/news/2023/supply_chain_us_china.html</loc>
+    <lastmod>2024-02-05T04:45:31.342Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/news2023.html</loc>
+    <lastmod>2024-02-05T04:45:31.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/people_members.html</loc>
+    <lastmod>2024-02-05T04:45:31.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.html</loc>
+    <lastmod>2024-02-05T04:45:31.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/publications/since_2020/kilkoang_antagonistic_control_of_genetic.html</loc>
+    <lastmod>2024-02-05T04:45:31.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.html</loc>
+    <lastmod>2024-02-05T04:45:31.349Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.html</loc>
+    <lastmod>2024-02-05T04:45:31.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sblab.or.kr/publications_since_2020.html</loc>
+    <lastmod>2024-02-05T04:45:31.375Z</lastmod>
   </url>
 </urlset>
