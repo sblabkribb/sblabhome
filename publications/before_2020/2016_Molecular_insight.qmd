@@ -1,0 +1,21 @@
+---
+title: "Molecular Insights into Toluene Sensing in the TodS/TodT Signal Transduction System*"
+subtitle: "THE JOURNAL OF BIOLOGICAL CHEMISTRY "
+author: "Hyewon Lee, et. al."
+date: "2016-02-10"
+categories:
+  - bacterial signal transduction
+  - biodegradation
+  - histidine kinase
+  - Pseudomonas
+  - x-ray crystallography
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861429/bin/zbc0191641800001.jpg)TodS is a sensor kinase that responds to various monoaromatic compounds, which either cause an agonistic or antagonistic effect on phosphorylation of its cognate response regulator TodT, and controls *tod* operon expression in *Pseudomonas putida* strains. We describe a molecular sensing mechanism of TodS that is activated in response to toluene. The crystal structures of the TodS Per-Arnt-Sim (PAS) 1 sensor domain (residues 43--164) and its complex with toluene (agonist) or 1,2,4-trimethylbenzene (antagonist) show a typical β2α3β3 PAS fold structure (residues 45--149), forming a hydrophobic ligand-binding site. A signal transfer region (residues 150--163) located immediately after the canonical PAS fold may be intrinsically flexible and disordered in both apo-PAS1 and antagonist-bound forms and dramatically adapt an α-helix upon toluene binding. This structural change in the signal transfer region is proposed to result in signal transmission to activate the TodS/TodT two-component signal transduction system. Site-directed mutagenesis and β-galactosidase assays using a *P. putida* reporter strain system verified the essential residues involved in ligand sensing and signal transfer and suggest that the Phe^46^ residue acts as a ligand-specific switch.
+
+DOI:10.1074/nar/gkac206. IF.(y). Citation . ISSN no.8575-8590.
+
+[Original article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861429/){.external target="_blank"}

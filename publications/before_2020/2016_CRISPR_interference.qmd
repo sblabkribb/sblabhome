@@ -1,0 +1,20 @@
+---
+title: "CRISPR interference-guided balancing of a biosynthetic mevalonate pathway increases terpenoid production"
+subtitle: "Metabolic Engineering"
+author: "Seong Keun Kim, et. al."
+date: "2016-08-26"
+categories:
+  - CRISPR interference
+  - Escherichia coli
+  - Mevalonate pathway
+  - Terpenoid
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-EAF54B50.png)Methods for simple and efficient regulation of metabolic pathway genes are essential for maximizing product titers and conversion yields, and for minimizing the metabolic burden caused by heterologous expression of multiple genes often in the operon context. Clustered regularly interspaced short palindromic repeats (CRISPR) interference (CRISPRi) is emerging as a promising tool for transcriptional modulation. In this study, we developed a regulatable CRISPRi system for fine-tuning biosynthetic pathways and thus directing carbon flux toward target product synthesis. By exploiting engineered Escherichia coli harboring a biosynthetic mevalonate (MVA) pathway and plant-derived terpenoid synthases, the CRISPRi system successfully modulated the expression of all the MVA pathway genes in the context of operon and blocked the transcription of the acetoacetyl-CoA thiolase enzyme that catalyzes the first step in the MVA pathway. This CRISPRi-guided balancing of expression of MVA pathway genes led to enhanced production of (-)-α-bisabolol (C15) and lycopene (C40) and alleviation of cell growth inhibition that may be caused by expression of multiple enzymes or production of toxic intermediate metabolites in the MVA pathway. Coupling CRISPRi to cell growth by regulating an endogenous essential gene (ispA) increased isoprene (C5) production. The regulatable CRISPRi system proved to be a robust platform for systematic modulation of biosynthetic and endogenous gene expression, and can be used to tune biosynthetic metabolic pathways. Its application can enable the development of microbial 'smart cell' factories that can produce other industrially valuable products in the future.
+
+DOI:10.1016/nar/gkac206. IF.(y). Citation . ISSN no.228-240.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/27569599/){.external target="_blank"}

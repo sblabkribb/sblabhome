@@ -1,0 +1,21 @@
+---
+title: "Development of a novel cellulase biosensor that detects crystalline cellulose hydrolysis using a transcriptional regulator"
+subtitle: "Biochemical and Biophysical Research Communications"
+author: "Kil Koang Kwon, et. al."
+date: "2018-01-01"
+categories:
+  - Biosensor
+  - Genetic circuit
+  - Transcriptional regulator
+  - Cellulase
+  - Crystalline cellulose
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0006291X17323343-gr1.jpg)Successful utilization of [cellulose](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/cellulose "Learn more about cellulose from ScienceDirect's AI-generated Topic Pages") as renewable biomass depends on the development of economically feasible technologies, which can aid in [enzymatic hydrolysis](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/enzymatic-hydrolysis "Learn more about enzymatic hydrolysis from ScienceDirect's AI-generated Topic Pages"). In this study, we developed a whole-cell biosensor for detecting cellulolytic activity that relies on the recognition of [cellobiose](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/cellobiose "Learn more about cellobiose from ScienceDirect's AI-generated Topic Pages") using the transcriptional factor CelR from [*Thermobifida fusca*](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/thermobifida-fusca "Learn more about Thermobifida fusca from ScienceDirect's AI-generated Topic Pages") and [transcriptional activation](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/transcription-initiation "Learn more about transcriptional activation from ScienceDirect's AI-generated Topic Pages") of its downstream *gfp* reporter gene. The fluorescence intensity of whole-cell biosensor, which was named as cellobiose-detectible [genetic](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/genetics "Learn more about genetic from ScienceDirect's AI-generated Topic Pages") [enzyme](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/lysozyme "Learn more about enzyme from ScienceDirect's AI-generated Topic Pages") screening system (CBGESS), was directly proportional to the concentration of cellobiose. The strong fluorescence intensity of CBGESS demonstrated the ability to detect cellulolytic activity with two cellulosic substrates, carboxymethyl cellulose and *p*-nitrophenyl β-D-cellobioside in cellulase-expressing *Escherichia coli*. In addition, CBGESS easily sensed crystalline cellulolytic activity when commercial Celluclast 1.5L was dropped on an Avicel plate. Therefore, CBGESS is a powerful tool for detecting cellulolytic activity with high sensitivity in the presence of soluble or insoluble cellulosic substrates. CBGESS may be further applied to excavate novel cellulases or microbes from both genetic libraries and various environments.
+
+DOI:10.1016/nar/gkac206. IF.(y). Citation . ISSN no.1328-1334.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S0006291X17323343){.external target="_blank"}

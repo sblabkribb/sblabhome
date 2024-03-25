@@ -1,0 +1,17 @@
+---
+title: "Encoded Hydrogel Microparticles for Sensitive and Multiplex microRNA Detection Directly from Raw Cell Lysates"
+subtitle: "ACS Publications"
+author: "Hyewon Lee, et. al."
+date: "2016-02-10"
+categories:
+  -  
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-C0D603E4.png)In recent years, microRNAs (miRNAs) have emerged as promising diagnostic markers because of their unique dysregulation patterns under various disease conditions and high stability in biological fluids. However, current methods of analyzing miRNA levels typically require RNA isolation, which is cumbersome and time-consuming. To achieve high-throughput and accurate miRNA profiling, this study eliminates the need for purification steps by detecting miRNA directly from raw cellular lysate using nonfouling polyethylene glycol microparticles. In contrast to recent studies on direct miRNA measurements from cell lysate, our hydrogel-based system provides high-confidence quantification with robust performance. The lysis buffer for the assay was optimized to maximize reaction and labeling efficiency, and this assay has a low limit of detection (\<1000 cells) without target amplification. Additionally, the capability for multiplexing was demonstrated through analyzing the levels of three endogenous miRNAs in 3T3 cell lysate. This versatile platform holds great potential for rapid and reliable direct miRNA quantification in complex media, and can be further extended to single-cell analysis by exploiting the flexibility and scalability of our system.
+
+DOI:10.1021/nar/gkac206. IF.(y). Citation . ISSN no.3075-3081.
+
+[Original article](https://pubs.acs.org/doi/10.1021/acs.analchem.5b03902){.external target="_blank"}

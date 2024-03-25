@@ -1,0 +1,19 @@
+---
+title: "C1 Compound Biosensors: Design, Functional Study, and Applications"
+subtitle: "International Journal of Molecular Sciences"
+author: "Jin-Young Lee, et. al."
+date: "2019-05-07"
+categories:
+  - C1 compound biosensor
+  - genetic enzyme screening system
+  - one-carbon compound
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6540204/bin/ijms-20-02253-g001.jpg)The microbial assimilation of one-carbon (C1) gases is a topic of interest, given that products developed using this pathway have the potential to act as promising substrates for the synthesis of valuable chemicals via enzymatic oxidation or C--C bonding. Despite extensive studies on C1 gas assimilation pathways, their key enzymes have yet to be subjected to high-throughput evolution studies on account of the lack of an efficient analytical tool for C1 metabolites. To address this challenging issue, we attempted to establish a fine-tuned single-cell--level biosensor system constituting a combination of transcription factors (TFs) and several C1-converting enzymes that convert target compounds to the ligand of a TF. This enzymatic conversion broadens the detection range of ligands by the genetic biosensor systems. In this study, we presented new genetic enzyme screening systems (GESSs) to detect formate, formaldehyde, and methanol from specific enzyme activities and pathways, named FA-GESS, Frm-GESS, and MeOH-GESS, respectively. All the biosensors displayed linear responses to their respective C1 molecules, namely, formate (1.0--250 mM), formaldehyde (1.0--50 μM), and methanol (5--400 mM), and they did so with high specificity. Consequently, the helper enzymes, including formaldehyde dehydrogenase and methanol dehydrogenase, were successfully combined to constitute new versatile combinations of the C1-biosensors.
+
+DOI:10.3390/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6540204/){.external target="_blank"}

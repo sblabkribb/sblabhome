@@ -1,0 +1,22 @@
+---
+title: "Synthetic 3-UTR valves for optimal metabolic flux control in Escherichia coli"
+subtitle: "Nucleic Acids Research"
+author: "Donghui Choe, et. al."
+date: "2022-03-31"
+categories:
+  - Methane 
+  - Methanotroph
+  - Phenol-inducible promoter
+  - CRISPR-base editor 
+  - Phosphoketolase 
+  - Mevalonate 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-10C47593.png)Methanotrophs are promising and sustainable cell factory platforms owing to their ability to convert the most potent greenhouse gas, methane to valuable bioproducts. Genetic engineering toolkits for methanotrophs are extremely limited. Here, we present a phenol-inducible promoter for the high-level expression of exogenous genes in methanotrophs. The phenol-inducible gene expression system showed high dose-dependency and homogeneity in methanotrophs. Using the phenol-inducible CRISPR-base editor (BE), we developed a highly efficient methanotroph genome editing system. The CRISPR-BE system efficiently introduced an early stop codon into the target gene, enabling one-step markerless genome editing in Methylococcus capsulatus Bath. We adopted this simple and efficient genome editing tool to produce mevalonate in the engineered M. capsulatus Bath. The native phosphoketolase pathway was reinforced in M. capsulatus Bath to increase the carbon flux via acetyl-CoA towards mevalonate. This engineered M. capsulatus Bath produced the maximum concentration of 2,090 mg/L mevalonate from methane, which is the highest amount of synthetic biochemicals produced from methane in methanotrophs. Here we present not only an efficient addition to the genetic engineering toolkit for methanotrophs but also a useful platform for the development of a methanotroph cell factory.
+
+DOI:10.1093/nar/gkac206. IF19.160(2021y). Citation . ISSN no.1385-8947.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S1385894722053918){.external target="_blank"}

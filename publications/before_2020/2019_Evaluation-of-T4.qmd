@@ -1,0 +1,19 @@
+---
+title: "Evaluation of Feasibility of Using the Bacteriophage T4 Lysozyme to Improve the Hydrolysis and Biochemical Methane Potential of Secondary Sludge"
+subtitle: "Energies"
+author: "Sangmin Kim, et. al."
+date: "2019-09-24"
+categories:
+  - sludge hydrolysis
+  - biochemical methane potential (BMP)
+  - bacterial community
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://www.mdpi.com/energies/energies-12-03644/article_deploy/html/images/energies-12-03644-g001-550.jpg)Anaerobic digestion (AD) of secondary sludge is a rate-limiting step due to the bacterial cell wall. In this study, experiments were performed to characterize secondary sludges from three wastewater treatment plants (WWTPs), and to investigate the feasibility of using bacteriophage lysozymes to speed up AD by accelerating the degradation of bacterial cell walls. Protein was the main organic material (67.7% of volatile solids in the sludge). The bacteriophage T4 lysozyme (T4L) was tested for hydrolysis and biochemical methane potential. Variations in the volatile suspended solid (VSS) concentration and biogas production were monitored. The VSS reduction efficiencies by hydrolysis using T4L for 72 h increased and ranged from 17.8% to 26.4%. Biogas production using T4L treated sludges increased and biogas production was increased by as much as 82.4%. Biogas production rate also increased, and the average reaction rate coefficient of first-order kinetics was 0.56 ± 0.02/d, which was up to 47.5% higher compared to the untreated samples at the maximum. Alphaproteobacteria, Betaproteobacteria, Flavobacteriia, Gammaproteobacteria, and Sphingobacteriia were major microbial classes in all sludges. The interpretation of the microbial community structure indicated that T4L treatment is likely to increase the rate of cell wall digestion.
+
+DOI:10.3390/nar/gkac206. IF.(y). Citation . ISSN no.1996-1073.
+
+[Original article](https://www.mdpi.com/1996-1073/12/19/3644){.external target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "Machine learning linked evolutionary biosensor array for highly sensitive and specific molecular identification"
+subtitle: "Biosensors and Bioelectronics"
+author: "Haseong Kim, et. al."
+date: "2020-10-01"
+categories:
+  - Genetically-encoded biosensors
+  - Machine learning
+  - Molecular identification
+  - Protein engineering
+  - Biosensor array
+  - High-throughput screening system
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S095656632030659X-gr1.jpg)Bacteria initiate complicated signaling cascades from the detection of intracellular [metabolites](https://www.sciencedirect.com/topics/engineering/metabolite "Learn more about metabolites from ScienceDirect's AI-generated Topic Pages") or exogenous substances by hundreds of transcription factors, which have been widely investigated as genetically-encoded biosensors for [molecular recognition](https://www.sciencedirect.com/topics/chemistry/molecular-recognition "Learn more about molecular recognition from ScienceDirect's AI-generated Topic Pages"). However, the limited number of transcription factors and their broad [substrate specificity](https://www.sciencedirect.com/topics/chemistry/substrate-specificity "Learn more about substrate specificity from ScienceDirect's AI-generated Topic Pages") result in ambiguity in [small molecule](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/small-molecule "Learn more about small molecule from ScienceDirect's AI-generated Topic Pages") identification. This study presents a new small molecule [fingerprinting technique](https://www.sciencedirect.com/topics/engineering/fingerprinting-technique "Learn more about fingerprinting technique from ScienceDirect's AI-generated Topic Pages") using evolutionary biosensor arrays with a [machine learning technique](https://www.sciencedirect.com/topics/engineering/machine-learning-technique "Learn more about machine learning technique from ScienceDirect's AI-generated Topic Pages") that can capture highly specific substrate signals. Employing multiple mutant transcription factors derived from a single transcription factor has effectively circumvented the limited availability of transcription factors induced by a small molecule of our interest. This method achieved up to 95.3% true positive rate for identifying small molecules, and the high-resolution [protein engineering](https://www.sciencedirect.com/topics/engineering/protein-engineering "Learn more about protein engineering from ScienceDirect's AI-generated Topic Pages") technique improved the limit of detection 75-fold. The signal trade-offs with background noises caused by the complex cellular [biochemistry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/biochemistry "Learn more about biochemistry from ScienceDirect's AI-generated Topic Pages") of mutant transcription factors enable the biosensor arrays to be more informative in terms of statistical variance. The machine learning technology, coupled with the single transcription factor-driven evolutionary biosensor array, will open new avenues for molecular fingerprinting technologies.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.0956-5663.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S095656632030659X){.external target="_blank"}

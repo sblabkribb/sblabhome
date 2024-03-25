@@ -1,0 +1,17 @@
+---
+title: "A synthetic microbial biosensor for high throughput screening of lactam biocatalysts"
+subtitle: "Nature Communications"
+author: "SooJin Yeom, et. al."
+date: "2019-04-01"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://media.springernature.com/lw685/springer-static/image/art%253A10.1038%252Fs41467-018-07488-0/MediaObjects/41467_2018_7488_Fig1_HTML.png)Biocatalytic cyclization is highly desirable for efficient synthesis of biologically derived chemical substances, such as the commodity chemicals ε-caprolactam and δ-valerolactam. To identify biocatalysts in lactam biosynthesis, we develop a caprolactam-detecting genetic enzyme screening system (CL-GESS). The *Alcaligenes faecalis* regulatory protein NitR is adopted for the highly specific detection of lactam compounds against lactam biosynthetic intermediates. We further systematically optimize the genetic components of the CL-GESS to enhance sensitivity, achieving 10-fold improvement. Using this highly sensitive GESS, we screen marine metagenomes and find an enzyme that cyclizes ω-amino fatty acids to lactam. Moreover, we determine the X-ray crystal structure and catalytic residues based on mutational analysis of the cyclase. The cyclase is also used as a helper enzyme to sense intracellular ω-amino fatty acids. We expect this simple and accurate biosensor to have wide-ranging applications in rapid screening of new lactam-synthesizing enzymes and metabolic engineering for lactam bio-production.
+
+DOI:10.1038/nar/gkac206. IF.(y). Citation . ISSN no.2041-1723.
+
+[Original article](https://www.nature.com/articles/s41467-018-07488-0){.external target="_blank"}

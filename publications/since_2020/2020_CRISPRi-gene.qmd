@@ -1,0 +1,17 @@
+---
+title: "CRISPR interference-mediated gene regulation in Pseudomonas putida KT2440"
+subtitle: "Journal of Applied Microbiology"
+author: "Seong Keun Kim, et. al."
+date: "2020-02-22"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://ami-journals.onlinelibrary.wiley.com/cms/asset/ab33083f-4436-4f1c-b5d3-2ae9b0596a57/mbt213382-fig-0001-m.png)Targeted gene regulation is indispensable for reprogramming a cellular network to modulate a microbial phenotype. Here, we adopted the type II CRISPR interference (CRISPRi) system for simple and efficient regulation of target genes in Pseudomonas putida KT2440. A single CRISPRi plasmid was generated to express a nuclease-deficient Cas9 gene and a designed single guide RNA, under control of l-rhamnose-inducible PrhaBAD and the constitutive Biobrick J23119 promoter respectively. Two target genes were selected to probe the CRISPRi-mediated gene regulation: exogenous green fluorescent protein on the multicopy plasmid and endogenous glpR on the P. putida KT2440 chromosome, encoding GlpR, a transcriptional regulator that represses expression of the glpFKRD gene cluster for glycerol utilization. The CRISPRi system successfully repressed the two target genes, as evidenced by a reduction in the fluorescence intensity and the lag phase of P. putida KT2440 cell growth on glycerol. Furthermore, CRISPRi-mediated repression of glpR improved both the cell growth and glycerol utilization, resulting in the enhanced production of mevalonate in an engineered P. putida KT2440 harbouring heterologous genes for the mevalonate pathway. CRISPRi is expected to become a robust tool to reprogram P. putida KT2440 for the development of microbial cell factories producing industrially valuable products.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.210-221.
+
+[Original article](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13382){.external target="_blank"}

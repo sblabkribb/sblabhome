@@ -1,0 +1,22 @@
+---
+title: "Improved metagenome screening efficiency by random insertion of T7 promoters"
+subtitle: "Journal of Biotechnology"
+author: "Yu Jung Kim, et. al."
+date: "2016-05-01"
+categories:
+  - Enforced-transcription
+  - High-efficiency screening
+  - Metagenomic screening
+  - Genetic diversity
+  - Esterase
+  - Lipase
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0168165616302747-gr1.jpg)Metagenomes constitute a major source for the identification of novel enzymes for industrial applications. However, current functional screening methods are hindered by the limited transcription efficiency of foreign metagenomic genes. To overcome this constraint, we introduced the \'Enforced Transcription\' technique, which involves the random insertion of the bi-directional T7 promoter into a metagenomic fosmid library. Then the effect of enforced transcription was quantitatively assessed by screening for metagenomic lipolytic genes encoding enzymes whose catalytic activity forms halos on tributyrin agar plates. The metagenomic library containing the enforced transcription system yielded a significantly increased number of screening hits with lipolytic activity compared to the library without random T7 promoter insertions. Additional sequence analysis revealed that the hits from the enforced transcription library had greater genetic diversity than those from the original metagenome library. Enhancing heterologous expression using the T7 promoter should enable the identification of greater numbers of diverse novel biocatalysts from the metagenome than possible using conventional metagenome screening approaches.
+
+DOI:10.1016/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S0168165616302747){.external target="_blank"}

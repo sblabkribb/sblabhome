@@ -1,0 +1,23 @@
+---
+title: "Cβ-Selective Aldol Addition of D‑Threonine Aldolase by Spatial Constraint of Aldehyde Binding"
+subtitle: "American Chemical Society"
+author: "Sung-Hyun Park, et. al."
+date: "2021-06-01"
+categories:
+  - d-threonine aldolase
+  - stereoselectivity
+  - β-hydroxy-α-amino acid
+  - catalytic mechanism
+  - protein engineering
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-9C81A99B.png)
+
+[d]{.smallcaps}-Threonine aldolase (DTA) is a useful biocatalyst that reversibly converts glycine and aldehyde to β-hydroxy-α-[d]{.smallcaps}-amino acid. However, low activity and poor diastereoselectivity limit its applications. Here we report DTA from *Filomicrobium marinum* (*Fm*DTA) that shows much higher activity and Cβ-stereoselectivity in [d]{.smallcaps}-threonine production compared with those of other known DTAs. We determine the *Fm*DTA structure at a 2.2 Å resolution and propose a DTA catalytic mechanism with a kernel of the Lys49 inner proton sink and metal ion in the aldol reaction cycle. The enzyme is rationally engineered to have high Cβ-stereoselectivity based on spatial constraint at the *anti*-specific aldehyde position in the mechanism, and the rational strategy is further applied to other DTAs for *syn*-production. The final *Fm*DTA^G179A/S312A^ variant exhibits a near-perfect 99.5% de value for [d]{.smallcaps}-threonine and maintains the de value above 93% even under kinetically unfavorable conditions. This study demonstrates how a detailed understanding of the reaction mechanism can be used for rational protein engineering.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.6892-6899.
+
+[Original article](https://pubs.acs.org/doi/10.1021/acscatal.1c01348){.external target="_blank"}

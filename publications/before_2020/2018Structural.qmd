@@ -1,0 +1,22 @@
+---
+title: "Structural and functional analyses of the cellulase transcription regulator CelR"
+subtitle: "FEBS Letters"
+author: "Yaoyao Fu, et. al."
+date: "2018-07-31"
+categories:
+  - cellulase
+  - CelR
+  - hinge region
+  - leucine lever
+  - Thermobifida fusca;
+  - transcription factor
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-6271DDAD.png)CelR is a transcriptional regulator that controls the expression of cellulases catalyzing cellulose hydrolysis. However, the structural mechanism of its regulation has remained unclear. Here, we report the first structure of CelR, in this case with cellobiose bound. CelR consists of a DNA-binding domain (DBD) and a regulatory domain (RD), and homodimerizes with each monomer bound to cellobiose. A hinge region (HR) in CelR connects the DBD with the RD, and Leu59 in the HR acts as a \'leucine lever\' that transduces a transcriptional activation signal. Furthermore, an α4 helix mediates the ligand-binding signal for transcriptional activation. Tyr84 and Gln301 can potentially alter the ligand specificity of CelR. This study provides a pivotal step toward understanding transcription of the cellulases.
+
+DOI:10.1002/nar/gkac206. IF.(y). Citation . ISSN no.1873-3468.
+
+[Original article](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13206){.external target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "A designed whole-cell biosensor for live diagnosis of gut inflammation through nitrate sensing"
+subtitle: "Biosensors and Bioelectronics"
+author: "Seung-Gyun Woo, et. al."
+date: "2020-11-15"
+categories:
+  - Whole cell biosensor
+  - Gut inflammation
+  - Designer probiotic
+  - Nitrate sensing
+  - Thiosulfate sensing
+  - Boolean AND gate
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0956566320305157-gr1.jpg)Microbes reprogrammed using advanced [genetic](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/genetics "Learn more about genetic from ScienceDirect's AI-generated Topic Pages") circuits are envisaged as emerging living diagnostics for a wide range of diseases and play key roles in regulating [gut microbiota](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/intestine-flora "Learn more about gut microbiota from ScienceDirect's AI-generated Topic Pages") to treat disease-associated symptoms in a non-invasive manner. Here, we developed a designer probiotic *Escherichia coli* that senses and responds to nitrate, a biomarker of gut inflammation. To this end, we first employed the NarX-NarL two-component regulatory system in *E. coli* to construct a nitrate-responsive genetic circuit. Next, we optimized the nitrate biosensor for the best performance using measures of sensitivity and specificity. We then introduced this genetic circuit into a probiotic *E. coli* Nissle 1917. We demonstrated that the designed biosensor can sense elevated nitrate levels during gut inflammation in mice with native gut microbiota. Moreover, using Boolean AND gate, we generated a genetically encoded biosensor for simultaneous sensing of the [thiosulfate](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/thiosulfate "Learn more about thiosulfate from ScienceDirect's AI-generated Topic Pages") and nitrate biomarkers, thus increasing the tool's specificity for diagnosing gut inflammation. The nitrate-responsive genetic circuit will enable new approaches for non-invasive diagnostics of inflammation-associated diseases.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.0956-5663.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S0956566320305157){.external target="_blank"}

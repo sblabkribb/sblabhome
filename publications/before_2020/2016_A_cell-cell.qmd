@@ -1,0 +1,23 @@
+---
+title: "A Cell-Cell Communication-Based Screening System for Novel Microbes with Target Enzyme Activities"
+subtitle: "ACS Synthetic Biology"
+author: "Haseong Kim, et. al."
+date: "2016-08-10"
+categories:
+  - cell−cell communication
+  - enzyme
+  - genetic circuit
+  - high-throughput screening
+  - metagenome
+  - microbiome
+  - phenol
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-73D79096.png)The development of synthetic biological devices has increased rapidly in recent years and the practical benefits of such biological devices are becoming increasingly clear. Here, we further improved the design of a previously reported high-throughput genetic enzyme screening system by investigating device-compatible biological components and phenol-mediated cell-cell communication, both of which increased the efficiency and practicality of the screening device without requiring the use of flow cytometry analysis. A sensor cell was designed to detect novel microbes with target enzyme activities on solid media by forming clear, circular colonies with fluorescence around the unknown microbes producing target enzymes. This mechanism of detection was enabled by the combination of pre-effector phenolic substrate treatment in the presence of target enzyme-producing microbes and control of the growth and fluorescence of remote sensor cells via phenol-mediated cell-cell communication. The sensor cells were applied to screen soil bacteria with phosphatase activity using phenyl phosphate as phenolic substrates. The sensor cells facilitated successful visualization of phosphatase activity in unknown microbes, which were identified by 16S rRNA analysis. Enzyme activity assays confirmed that the proposed screening technique was able to find 23 positive clones out of 33 selected colonies. Since many natural enzymatic reactions produce phenolic compounds from phenol-derived substrates, we anticipate that the proposed technique may have broad applications in the assessment and screening of novel microbes with target enzymes of interest. This method also can provide insights into the identification of novel enzymes for which screening assays are not yet available.
+
+DOI:10.1021/nar/gkac206. IF.(y). Citation . ISSN no.1231-1238.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/27452868/){.external target="_blank"}

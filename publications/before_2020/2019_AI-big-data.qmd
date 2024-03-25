@@ -1,0 +1,19 @@
+---
+title: "AI, big data, and robots for the evolution of biotechnology"
+subtitle: "Genomics & Informatics"
+author: "Hee Taek Kim, et. al."
+date: "2019-11-13"
+categories:
+  - artificial intelligence
+  - big data
+  - ubiquitous robotic companions
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Artificial intelligence (AI), big data, and ubiquitous robotic companions ---the three most notable technologies of the 4th Industrial Revolution---are receiving renewed attention each day. Technologies that can be experienced in daily life, such as autonomous navigation, real-time translators, and voice recognition services, are already being commercialized in the field of information technology. In the biosciences field in Korea, such technologies have become known to the local public with the introduction of the AI doctor Watson in large number of hospitals. Additionally, AlphaFold, a technology resembling the AI AlphaGo for the game Go, has surpassed the limit on protein folding predictions---the most challenging problems in the field of protein biology. This report discusses the significance of AI technology and big data on the bioscience field. The introduction of automated robots in this field is not just only for the purpose of convenience but a prerequisite for the real sense of AI and the consequent accumulation of basic scientific knowledge.
+
+DOI:10.5808/nar/gkac206. IF.(y). Citation . ISSN no.2234-0742.
+
+[Original article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6944054/){.external target="_blank"}

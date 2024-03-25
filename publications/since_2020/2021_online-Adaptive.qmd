@@ -1,0 +1,19 @@
+---
+title: "Droplet contact-based spheroid transfer technique as a multi-step assay tool for spheroid arrays"
+subtitle: "Royal Society of Chemistry"
+author: "Hwisoo Kim, et. al."
+date: "2021-10-09"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-B20AC43A.png)
+
+Hanging drop plates and low-attachment well plates are suitable for a high throughput screening model of a spheroid, because each drop (or well) contains a single spheroid and the spheroid environment are separated from each other. However, uniform spheroid culture on these devices is difficult as the liquid around the spheroid is replaced by direct pipetting, which can cause spheroid damage or loss, and well-to-well variation. If spheroids need to be cultured for a long time or analyzed through chemical treatment of immunostaining, it becomes a more considerable problem as the number of pipetting action increases. To address these problems, we have developed a poly(dimethylsiloxane) (PDMS)-based drop array chip (DAC) and a pillar array chip (PAC) that can apply a droplet contact-based spheroid transfer (DCST) technique to multiple reagent change or washing steps of spheroid assays. Unlike previous DCST devices, 3D-printed mold-based DCST devices showed stable spheroid manipulation during repetitive drop contact and facile transfer of spheroid arrays to the next reagent-loaded DAC while minimizing cross-contamination of the reagents. Compared to the conventional manual or machine pipetting method, the DCST method showed lower user-to-user variation and a higher spheroid retention rate in the manipulation of the spheroid array. Live/dead staining, hypoxia staining, and immunofluorescence staining of the spheroid array were performed on a breast cancer cell line, BT-474. Furthermore, four clearing methods were applied to the spheroid array as a proof of concept, and we have identified the applicability of the DCST platform as a pretreatment platform for whole spheroid analysis.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.4155-4165.
+
+[Original article](https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00581b){.external target="_blank"}

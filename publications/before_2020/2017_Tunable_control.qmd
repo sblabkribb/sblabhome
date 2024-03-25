@@ -1,0 +1,21 @@
+---
+title: "Tunable Control of an Escherichia coli Expression System for the Overproduction of Membrane Proteins by Titrated Expression of a Mutant lac Repressor"
+subtitle: "ACS Synthetic Biology"
+author: "Seong Keun Kim, et. al."
+date: "2017-05-19"
+categories:
+  - Escherichia coli
+  - expression system
+  - lac repressor
+  - membrane protein
+  - mutant LacI
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-B94CC4DD.png)Most inducible expression systems suffer from growth defects, leaky basal induction, and inhomogeneous expression levels within a host cell population. These difficulties are most prominent with the overproduction of membrane proteins that are toxic to host cells. Here, we developed an Escherichia coli inducible expression system for membrane protein production based on titrated expression of a mutant lac repressor (mLacI). Performance of the mLacI inducible system was evaluated in conjunction with commonly used lac operator-based expression vectors using a T7 or tac promoter. Remarkably, expression of a target gene can be titrated by the dose-dependent addition of l-rhamnose, and the expression levels were homogeneous in the cell population. The developed system was successfully applied to overexpress three membrane proteins that were otherwise difficult to produce in E. coli. This gene expression control system can be easily applied to a broad range of existing protein expression systems and should be useful in constructing genetic circuits that require precise output signals.
+
+DOI:10.1021/nar/gkac206. IF.(y). Citation . ISSN no.1273-1282.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/28524655/){.external target="_blank"}

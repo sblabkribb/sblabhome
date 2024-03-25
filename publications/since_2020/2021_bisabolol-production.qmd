@@ -1,0 +1,24 @@
+---
+title: "(−)-α-Bisabolol Production in Engineered Escherichia coli Expressing a Novel (−)-α-Bisabolol Synthase from the Globe Artichoke Cynara cardunculus var. Scolymus"
+subtitle: "American Chemical Society"
+author: "Hyun Seung Lim, et. al."
+date: "2021-07-18"
+categories:
+  - (−)-α-bisabolol
+  - (−)-α-bisabolol synthase
+  - Escherichia coli
+  - fermentation
+  - mevalonate pathway
+  - artichoke
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-A1C315C1.png)[d]{.smallcaps}-
+
+(−)-α-Bisabolol is a functional ingredient in various health and cosmetic products and has antibacterial, anti-inflammatory, and wound healing properties. (−)-α-Bisabolol is chemically synthesized and produced by steam distillation of essential oils extracted from Brazilian Candeia (*Eremanthus erythropappus*). To sustainably produce pure (−)-α-bisabolol, we previously engineered *Escherichia coli* to produce 9.1 g/L (−)-α-bisabolol via heterologous mevalonate pathways and (−)-α-bisabolol synthase (BOS) from German chamomile, *Matricaria recutita* (MrBOS). BOS has only been reported in MrBOS and Brazilian Candeia (EeBOS). The limited availability of BOS has made it difficult to achieve high titer and yield and large-scale (−)-α-bisabolol production. We identified a novel BOS in globe artichoke (CcBOS) and examined its functionality *in vitro* and *in vivo*. CcBOS showed higher catalytic efficiency and (−)-α-bisabolol production rates than those from MrBOS or EeBOS. In fed-batch fermentation, CcBOS generated the highest reported (−)-α-bisabolol titer to date (23.4 g/L). These results may facilitate economically viable industrial (−)-α-bisabolol production.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c02759){.external target="_blank"}

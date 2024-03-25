@@ -1,0 +1,17 @@
+---
+title: "Controlled Aggregation and Increased Stability of β-Glucuronidase by Cellulose Binding Domain Fusion"
+subtitle: "PLOS ONE"
+author: "Soo-Jin Yeom, et. al."
+date: "2017-01-18"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-7286CCEB.png)Cellulose-binding domains (CBDs) are protein domains with cellulose-binding activity, and some act as leaders in the localization of cellulosomal scaffoldin proteins to the hydrophobic surface of crystalline cellulose. In this study, we found that a CBD fusion enhanced and improved soluble β-glucuronidase (GusA) enzyme properties through the formation of an artificially oligomeric state. First, a soluble CBD fused to the C-terminus of GusA (GusA-CBD) was obtained and characterized. Interestingly, the soluble GusA-CBD showed maximum activity at higher temperatures (65°C) and more acidic pH values (pH 6.0) than free GusA did (60°C and pH 7.5). Moreover, the GusA-CBD enzyme showed higher thermal and pH stabilities than the free GusA enzyme did. Additionally, GusA-CBD showed higher enzymatic activity in the presence of methanol than free GusA did. Evaluation of the protease accessibility of both enzymes revealed that GusA-CBD retained 100% of its activity after 1 h incubation in 0.5 mg/ml protease K, while free GusA completely lost its activity. Simple fusion of CBD as a single domain may be useful for tunable enzyme states to improve enzyme stability in industrial applications.
+
+DOI:10.1371/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170398){.external target="_blank"}

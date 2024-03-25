@@ -1,0 +1,23 @@
+---
+title: "Engineering Bacteroides thetaiotaomicron to produce non-native butyrate based on a genome-scale metabolic model-guided design"
+subtitle: "Metabolic Engineering"
+author: "Byung-Kwan Cho, et. al."
+date: "2021-10-09"
+categories:
+  - Bacteroides thetaiotaomicron
+  - Genome-scale metabolic model
+  - Flux-balance analysis
+  - Butyrate
+  - Commensal microbes
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-0472D315.png)
+
+[*Bacteroides thetaiotaomicron*](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/bacteroides-thetaiotaomicron "Learn more about Bacteroides thetaiotaomicron from ScienceDirect's AI-generated Topic Pages") represents a major symbiont of the human gut [microbiome](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/microbiome "Learn more about microbiome from ScienceDirect's AI-generated Topic Pages") that is increasingly viewed as a promising candidate strain for microbial therapeutics. Here, we engineer *B. thetaiotaomicron* for heterologous production of non-native butyrate as a proof-of-concept biochemical at therapeutically relevant concentrations. Since *B. thetaiotaomicron* is not a natural producer of butyrate, we heterologously expressed a butyrate [biosynthetic pathway](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/anabolism "Learn more about biosynthetic pathway from ScienceDirect's AI-generated Topic Pages") in the strain, which led to the production of butyrate at the final concentration of 12 mg/L in a rich medium. Further optimization of butyrate production was achieved by a round of [metabolic engineering](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/metabolic-engineering "Learn more about metabolic engineering from ScienceDirect's AI-generated Topic Pages") guided by an expanded genome-scale metabolic model (GEM) of *B. thetaiotaomicron*. The *in silico* knock-out simulation of the expanded model showed that *pta* and [*ldhD*](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/lactate-dehydrogenase "Learn more about ldhD from ScienceDirect's AI-generated Topic Pages") were the potent knock-out targets to enhance butyrate production. The maximum titer and specific productivity of butyrate in the *pta*-*ldhD* double knockout mutant increased by nearly 3.4 and 4.8 folds, respectively. To our knowledge, this is the first engineering attempt that enabled butyrate production from a non-butyrate producing commensal *B. thetaiotaomicron*. The study also highlights that *B. thetaiotaomicron* can serve as an effective strain for live microbial therapeutics in human.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.174-186.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S1096717621001567){.external target="_blank"}

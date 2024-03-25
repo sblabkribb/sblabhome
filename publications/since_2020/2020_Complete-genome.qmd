@@ -1,0 +1,17 @@
+---
+title: "Complete Genome Sequence of Methylomonas koyamae LM6, a Potential Aerobic Methanotroph"
+subtitle: "Microbiol Resour Announc"
+author: "Dae-Hee Lee, et. al."
+date: "2020-02-06"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+*Methylomonas koyamae* LM6 is a potential methanotrophic bacterium of interest for methane bioconversion. Here, we report the complete genome sequence of *M. koyamae* LM6, which contains 4,337 predicted open reading frames on one chromosome (4,894,002 bp) and one plasmid (186,658 bp), with genes involved in methane oxidation.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7005128/){.external target="_blank"}

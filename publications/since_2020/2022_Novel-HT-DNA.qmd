@@ -1,0 +1,24 @@
+---
+title: "Single-Cell-Based Screening and Engineering of D‑Amino Acid Amidohydrolases Using Artificial Amidophenol Substrates and Microbial Biosensors"
+subtitle: "2022 American Chemical Society"
+author: "Soo-Jin Yeom, et. al."
+date: "2022-01-07"
+categories:
+  - amidase
+  - d-amino acid
+  - artificial substrate
+  - biosensor
+  - HT screening
+  - genetic circuit
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-6544D962.png)
+
+Enantiomerically pure d-amino acids are important intermediates as chiral building blocks for peptidomimetics and semisynthetic antibiotics. Here, a transcriptional factor-based screening strategy was used for the rapid screening of d-stereospecific amino acid amidase via an enzyme-specific amidophenol substrate. We used a d-threonine amidophenyl derivative to produce 2-aminophenol that serves as a putative enzyme indicator in the presence of d-threonine amidases. Comparative analyses of known bacterial species indicated that several Bacillus strains produce amidase and form putative indicators in culture media. The estimated amidase was cloned and subjected to rapid directed evolution through biosensor cells. Consequently, we characterized the F119A mutation that significantly improved the catalytic activity toward d-alanine, d-threonine, and d-glutamate. Its beneficial effects were confirmed by higher conversions and recurrent applications of the mutant enzyme, compared to the wild-type. This study showed that rapid directed evolution with biosensors coupled to designed substrates is useful to develop biocatalytic processes.
+
+DOI:10.1093/nar/gkac206. IF19.160(2022y). Citation . ISSN no.1203-1211.
+
+[Original article](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c05834){.external target="_blank"}

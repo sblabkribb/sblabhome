@@ -1,0 +1,17 @@
+---
+title: "Tetrameric architecture of an active phenol-bound form of the AAA+ transcriptional regulator DmpR"
+subtitle: "Nature Communications"
+author: "Kwang-Hyun Park, et. al."
+date: "2020-06-01"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://media.springernature.com/lw685/springer-static/image/art%253A10.1038%252Fs41467-020-16562-5/MediaObjects/41467_2020_16562_Fig1_HTML.png)The *Pseudomonas putida* phenol-responsive regulator DmpR is a bacterial enhancer binding protein (bEBP) from the AAA^+^ ATPase family. Even though it was discovered more than two decades ago and has been widely used for aromatic hydrocarbon sensing, the activation mechanism of DmpR has remained elusive. Here, we show that phenol-bound DmpR forms a tetramer composed of two head-to-head dimers in a head-to-tail arrangement. The DmpR-phenol complex exhibits altered conformations within the C-termini of the sensory domains and shows an asymmetric orientation and angle in its coiled-coil linkers. The structural changes within the phenol binding sites and the downstream ATPase domains suggest that the effector binding signal is propagated through the coiled-coil helixes. The tetrameric DmpR-phenol complex interacts with the σ^54^ subunit of RNA polymerase in presence of an ATP analogue, indicating that DmpR-like bEBPs tetramers utilize a mechanistic mode distinct from that of hexameric AAA^+^ ATPases to activate σ^54^-dependent transcription.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.nature.com/articles/s41467-020-16562-5){.external target="_blank"}

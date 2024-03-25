@@ -1,0 +1,21 @@
+---
+title: "Structural Analysis of the Phenol-Responsive Sensory Domain of the Transcription Activator PoxR"
+subtitle: "Short Article"
+author: "Vinod Vikas Patil, et. al."
+date: "2016-04-05"
+categories:
+  - AAA+ ATPase family
+  - DmpR
+  - Enhancer-binding Protein
+  - Phenol
+  - PoxR
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-061AED38.png)Positive phenol-degradative gene regulator (PoxR) is a σ(54)-dependent AAA+ ATPase transcription activator that regulates the catabolism of phenols. The PoxR sensory domain detects phenols and relays signals for the activation of transcription. Here we report the first structure of the phenol sensory domain bound to phenol and five derivatives. It exists as a tightly intertwined homodimer with a phenol-binding pocket buried inside, placing two C termini on the same side of the dimer. His102 and Trp130 interact with the hydroxyl group of the phenol in a cavity surrounded by rigid hydrophobic residues on one side and a flexible region on the other. Each monomer has a V4R fold with a unique zinc-binding site. A shift at the C-terminal helix suggests that there is a possible conformational change upon ligand binding. The results provide a structural basis of chemical effector binding for transcriptional regulation with broad implications for protein engineering.
+
+DOI:10.1016/nar/gkac206. IF.(y). Citation . ISSN no.624-630.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/27050690/){.external target="_blank"}

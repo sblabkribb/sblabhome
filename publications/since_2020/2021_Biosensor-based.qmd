@@ -1,0 +1,23 @@
+---
+title: "Biosensor-Based Directed Evolution of Methanol Dehydrogenase from Lysinibacillus xylanilyticus"
+subtitle: "Journal of Molecular Sciences"
+author: "Thien-Kim Le, et. al."
+date: "2021-02-02"
+categories:
+  - synthetic methylotrophy
+  - methanol dehydrogenase
+  - Lysinibacillus xylanilyticus
+  - biosensor
+  - screening
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-E3F905AD.png)
+
+Methanol dehydrogenase (Mdh), is a crucial enzyme for utilizing methane and methanol as carbon and energy sources in methylotrophy and synthetic methylotrophy. Engineering of Mdh, especially NAD-dependent Mdh, has thus been actively investigated to enhance methanol conversion. However, its poor catalytic activity and low methanol affinity limit its wider application. In this study, we applied a transcriptional factor-based biosensor for the direct evolution of Mdh from Lysinibacillus xylanilyticus (Lxmdh), which has a relatively high turnover rate and low K~M~ value compared to other wild-type NAD-dependent Mdhs. A random mutant library of Lxmdh was constructed in Escherichia coli and was screened using formaldehyde-detectable biosensors by incubation with low methanol concentrations. Positive clones showing higher fluorescence were selected by fluorescence-activated cell sorting (FACS) system, and their catalytic activities toward methanol were evaluated. The successfully isolated mutants E396V, K318N, and K46E showed high activity, particularly at very low methanol concentrations. In kinetic analysis, mutant E396V, K318N, and K46E had superior methanol conversion efficiency, with 79-, 23-, and 3-fold improvements compared to the wild-type, respectively. These mutant enzymes could thus be useful for engineering synthetic methylotrophy and for enhancing methanol conversion to various useful products.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.1422-0067.
+
+[Original article](https://www.mdpi.com/1422-0067/22/3/1471){.external target="_blank"}

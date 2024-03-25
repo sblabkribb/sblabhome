@@ -1,0 +1,22 @@
+---
+title: "Leucine zipper-mediated targeting of multi-enzyme cascade reactions to inclusion bodies in Escherichia coli for enhanced production of 1-butanol"
+subtitle: "Metabolic Engineering"
+author: "Gui Hwan Han, et. al."
+date: "2017-03-00"
+categories:
+  - Metabolon
+  - 1-Butanol
+  - Enzyme cascade
+  - Leucine zipper
+  - Cellulose binding domain
+  - Inclusion body
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-A291384A.png)Metabolons in nature have evolved to facilitate more efficient catalysis of multistep reactions through the co-localization of functionally related enzymes to cellular organelles or membrane structures. To mimic the natural metabolon architecture, we present a novel artificial metabolon that was created by targeting multi-enzyme cascade reactions onto inclusion body (IB) in Escherichia coli. The utility of this system was examined by co-localizing four heterologous enzymes of the 1-butanol pathway onto an IB that was formed in E. coli through overexpression of the cellulose binding domain (CBD) of Cellulomonas fimi exoglucanase. To target the 1-butanol pathway enzymes to the CBD IB, we utilized a peptide-peptide interaction between leucine zipper (LZ) peptides. We genetically fused the LZ peptide to the N-termini of four heterologous genes involved in the synthetic 1-butanol pathway, whereas an antiparallel LZ peptide was fused to the CBD gene. The in vivo activity of the CBD IB-based metabolon was examined through the determination of 1-butanol synthesis using E. coli transformed with two plasmids containing the LZ-fused CBD and LZ-fused 1-butanol pathway genes, respectively. In vivo synthesis of 1-butanol using the engineered E. coli yielded 1.98g/L of 1-butanol from glucose, representing a 1.5-fold increase over that obtained from E. coli expressing the LZ-fused 1-butanol pathway genes alone. In an attempt to examine the in vitro 1-butanol productivity, we reconstituted CBD IB-based metabolon using CBD IB and individual enzymes of 1-butanol pathway. The 1-butanol productivity of in vitro reconstituted CBD IB-based metabolon using acetoacetyl-CoA as the starting material was 2.29mg/L/h, 7.9-fold higher than that obtained from metabolon-free enzymes of 1-butanol pathway. Therefore, this novel CBD-based artificial metabolon may prove useful in metabolic engineering both in vivo and in vitro for the efficient production of desired products.
+
+DOI:10.1016/nar/gkac206. IF12.012(2016y). Citation . ISSN no.1096-7176.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/28038953/){.external target="_blank"}

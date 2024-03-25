@@ -1,0 +1,23 @@
+---
+title: "Biological Valorization of Poly(ethylene terephthalate) Monomers for Upcycling Waste PET"
+subtitle: "ACS Sustainable Chemistry & Engineering"
+author: "Hee Taek Kim, et. al."
+date: "2019-11-12"
+categories:
+  - Poly(ethylene terephthalate)
+  - Plastic recycling
+  - Upcycling
+  - Valorization
+  - Terephthalic acid
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-62686E91.png)
+
+Poly(ethylene terephthalate) (PET), composed of terephthalic acid (TPA) and ethylene glycol (EG), is the most commonly produced polyester. Unrecycled PET waste causes serious environmental problems. To increase the PET recycling rate, the upcycling of PET into products that are higher value than PET is desired. In this study, the feasibility of biological valorization of PET for its upcycling was experimentally evaluated. Among the two monomers obtained from the chemical hydrolysis of PET, TPA was biologically converted to five different aromatics and aromatic-derived compounds by using whole-cell catalysts comprising *Escherichia coli* engineered to express necessary metabolic enzymes for biosynthetic routes for converting TPA. These five higher-value products from TPA, gallic acid, pyrogallol, catechol, muconic acid, and vanillic acid were synthesized via protocatechuic acid as the key intermediate at relatively high molar conversion yields, 32.7--92.5%. The other monomer from PET, EG, was fermented to glycolic acid, a cosmetic ingredient. This is the first experimental validation of producing various higher-value chemicals from PET monomers.
+
+DOI:10.1021/nar/gkac206. IF.(y). Citation . ISSN no.19396-19406.
+
+[Original article](https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b03908){.external target="_blank"}

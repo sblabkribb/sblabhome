@@ -1,0 +1,24 @@
+---
+title: "Syntrophic co-culture of a methanotroph and heterotroph for the efficient conversion of methane to mevalonate "
+subtitle: "Metabolic Engineering"
+author: "Hyewon Lee, et. al."
+date: "2021-07-20"
+categories:
+  - Co-culture
+  - Methane
+  - Methanotroph
+  - Heterotroph
+  - Mevalonate
+  - Bio-conversion
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S109671762100118X-gr1.jpg)
+
+As the [bioconversion](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/biotransformation "Learn more about bioconversion from ScienceDirect's AI-generated Topic Pages") of methane becomes increasingly important for bio-industrial and environmental applications, [methanotrophs](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/methanotroph "Learn more about methanotrophs from ScienceDirect's AI-generated Topic Pages") have received much attention for their ability to convert methane under ambient conditions. This includes the extensive reporting of methanotroph engineering for the conversion of methane to biochemicals. To further increase methane usability, we demonstrated a highly flexible and efficient modular approach based on a synthetic consortium of methanotrophs and [heterotrophs](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/heterotroph "Learn more about heterotrophs from ScienceDirect's AI-generated Topic Pages") mimicking the natural methane ecosystem to produce mevalonate (MVA) from methane. In the methane-conversion module, we used [*Methylococcus capsulatus*](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/methylococcus-capsulatus "Learn more about Methylococcus capsulatus from ScienceDirect's AI-generated Topic Pages") Bath as a highly efficient methane [biocatalyst](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/biocatalyst "Learn more about biocatalyst from ScienceDirect's AI-generated Topic Pages") and optimized the culture conditions for the production of high amounts of organic acids. In the MVA-synthesis module, we used *Escherichia coli* SBA01, an evolved strain with high [organic acid](https://www.sciencedirect.com/topics/chemical-engineering/carboxylic-acid "Learn more about organic acid from ScienceDirect's AI-generated Topic Pages") tolerance and utilization ability, to convert organic acids to MVA. Using recombinant *E. coli* SBA01 possessing genes for the [MVA pathway](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mevalonate-pathway "Learn more about MVA pathway from ScienceDirect's AI-generated Topic Pages"), 61 mg/L (0.4 mM) of MVA was successfully produced in 48 h without any addition of nutrients except methane. Our platform exhibited high stability and reproducibility with regard to cell growth and MVA production. We believe that this versatile system can be easily extended to many other value-added processes and has a variety of potential applications.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.1096-7176.
+
+[Original article](https://www.sciencedirect.com/science/article/pii/S109671762100118X){.external target="_blank"}

@@ -1,0 +1,21 @@
+---
+title: "Adaptive laboratory evolution of Escherichia coli lacking cellular byproduct formation for enhanced acetate utilization through compensatory ATP consumption"
+subtitle: "Metabolic Engineering"
+author: "Wonjae Seong, et. al."
+date: "2020-09-12"
+categories:
+  - Adaptive laboratory evolution
+  - Escherichia coli
+  - Acetate
+  - Butanol
+  - Mevalonate
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-4C9AF932.png)Acetate has attracted great attention as a carbon source to develop economically feasible bioprocesses for sustainable bioproducts. Acetate is a less-preferred carbon source and a well-known growth inhibitor of Escherichia coli. In this study, we carried out adaptive laboratory evolution of an E. coli strain lacking four genes (adhE, pta, ldhA, and frdA) involved in acetyl-CoA consumption, allowing the efficient utilization of acetate as its sole carbon and energy source. Four genomic mutations were found in the evolved strain through whole-genome sequencing, and two major mutations (in cspC and patZ) mainly contributed to efficient utilization of acetate and tolerance to acetate. Transcriptomic reprogramming was examined by analyzing the genome-wide transcriptome with different carbon sources. The evolved strain showed high levels of intracellular ATP by upregulation of genes involved in NADH and ATP biosynthesis, which facilitated the production of enhanced green fluorescent protein, mevalonate, and n-butanol using acetate alone. This new strain, given its high acetate tolerance and high ATP levels, has potential as a starting host for cell factories targeting the production of acetyl-CoA-derived products from acetate or of products requiring high ATP levels.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.1096-7176.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/32931907/){.external target="_blank"}

@@ -1,0 +1,21 @@
+---
+title: "Genetically Encoded Biosensor-Based Screening for Directed Bacteriophage T4 Lysozyme Evolution"
+subtitle: "International Journal of Molecular Sciences"
+author: "Seung-Gyun Woo, et. al."
+date: "2020-11-17"
+categories:
+  - bacteriophage T4 lysozyme
+  - genetically encoded biosensor
+  - directed evolution
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-71CA4B65.png)
+
+Lysozyme is widely used as a model protein in studies of structure--function relationships. Recently, lysozyme has gained attention for use in accelerating the degradation of secondary sludge, which mainly consists of bacteria. However, a high-throughput screening system for lysozyme engineering has not been reported. Here, we present a lysozyme screening system using a genetically encoded biosensor. We first cloned bacteriophage T4 lysozyme (T4L) into a plasmid under control of the araBAD promoter. The plasmid was expressed in Escherichia coli with no toxic effects on growth. Next, we observed that increased soluble T4L expression decreased the fluorescence produced by the genetic enzyme screening system. To investigate T4L evolution based on this finding, we generated a T4L random mutation library, which was screened using the genetic enzyme screening system. Finally, we identified two T4L variants showing 1.4-fold enhanced lytic activity compared to native T4L. To our knowledge, this is the first report describing the use of a genetically encoded biosensor to investigate bacteriophage T4L evolution. Our approach can be used to investigate the evolution of other lysozymes, which will expand the applications of lysozyme.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.mdpi.com/1422-0067/21/22/8668){.external target="_blank"}

@@ -1,0 +1,23 @@
+---
+title: "Sensitive and Rapid Phenotyping of Microbes With Soluble Methane Monooxygenase Using a Droplet-Based Assay"
+subtitle: "Frontiers in Bioengineering and Biotechnology"
+author: "Hyewon Lee, et. al."
+date: "2020-04-24"
+categories:
+  - synthetic biology
+  - transcriptional factor-based biosensors
+  - microfluidics
+  - large-scale phenotyping
+  - cell–cell communication
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://www.frontiersin.org/files/Articles/514536/fbioe-08-00358-HTML/image_m/fbioe-08-00358-g001.jpg)
+
+Methanotrophs with soluble methane monooxygenase (sMMO) show high potential for various ecological and biotechnological applications. Here, we developed a high throughput method to identify sMMO-producing microbes by integrating droplet microfluidics and a genetic circuit-based biosensor system. sMMO-producers and sensor cells were encapsulated in monodispersed droplets with benzene as the substrate and incubated for 5 h. The sensor cells were analyzed as the reporter for phenol-sensitive transcription activation of fluorescence. Various combinations of methanotrophs and biosensor cells were investigated to optimize the performance of our droplet-integrated transcriptional factor biosensor system. As a result, the conditions to ensure sMMO activity to convert the starting material, benzene, into phenol, were determined. The biosensor signals were sensitive and quantitative under optimal conditions, showing that phenol is metabolically stable within both cell species and accumulates in picoliter-sized droplets, and the biosensor cells are healthy enough to respond quantitatively to the phenol produced. These results show that our system would be useful for rapid evaluation of phenotypes of methanotrophs showing sMMO activity, while minimizing the necessity of time-consuming cultivation and enzyme preparation, which are required for conventional analysis of sMMO activity.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00358/full){.external target="_blank"}

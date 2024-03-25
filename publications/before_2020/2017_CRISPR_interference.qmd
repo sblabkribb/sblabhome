@@ -1,0 +1,23 @@
+---
+title: "CRISPR interference-guided multiplex repression of endogenous competing pathway genes for redirecting metabolic flux in Escherichia coli"
+subtitle: "Microbial Cell Factories"
+author: "Seong Keun Kim, et. al."
+date: "2017-11-03"
+categories:
+  - CRISPR interference
+  - Endogenous gene
+  - Escherichia coli
+  - Multiple gene knockdown
+  - n-Butanol
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5670510/bin/12934_2017_802_Fig1_HTML.gif)
+
+Multiplex control of metabolic pathway genes is essential for maximizing product titers and conversion yields of fuels, chemicals, and pharmaceuticals in metabolic engineering. To achieve this goal, artificial transcriptional regulators, such as clustered regularly interspaced short palindromic repeats (CRISPR) interference (CRISPRi), have been developed to specifically repress genes of interest.
+
+DOI:10.1186/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://pubmed.ncbi.nlm.nih.gov/29100516/){.external target="_blank"}

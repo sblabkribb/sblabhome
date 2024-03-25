@@ -1,0 +1,17 @@
+---
+title: "Acclimation of bacterial cell state for high-throughput enzyme engineering using a DmpRdependent transcriptional activation system"
+subtitle: "Scientific Reports"
+author: "Kil Koang Kwon, et. al."
+date: "2020-04-08"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://media.springernature.com/lw685/springer-static/image/art%253A10.1038%252Fs41598-020-62892-1/MediaObjects/41598_2020_62892_Fig1_HTML.png)Genetic circuit-based biosensors have emerged as an effective analytical tool in synthetic biology; these biosensors can be applied to high-throughput screening of new biocatalysts and metabolic pathways. Sigma 54 (σ^54^)-dependent transcription factor (TF) can be a valuable component of these biosensors owing to its intrinsic silent property compared to most of the housekeeping sigma 70 (σ^70^) TFs. Here, we show that these unique characteristics of σ^54^-dependent TFs can be used to control the host cell state to be more appropriate for high-throughput screening. The acclimation of cell state was achieved by using guanosine (penta)tetraphosphate ((p)ppGpp)-related genes (*relA*, *spoT*) and nutrient conditions, to link the σ^54^ TF-based reporter expression with the target enzyme activity. By controlling stringent programmed responses and optimizing assay conditions, catalytically improved tyrosine phenol lyase (TPL) enzymes were successfully obtained using a σ^54^-dependent DmpR as the TF component, demonstrating the practical feasibility of this biosensor. This combinatorial strategy of biosensors using σ factor-dependent TFs will allow for more effective high-throughput enzyme engineering with broad applicability.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://www.nature.com/articles/s41598-020-62892-1){.external target="_blank"}

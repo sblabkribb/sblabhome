@@ -1,0 +1,20 @@
+---
+title: "Molecular and biochemical characterization of a novel isoprene synthase from Metrosideros polymorpha"
+subtitle: "BMC Plant Biology"
+author: "Soo-Jin Yeom, et. al."
+date: "2018-06-15"
+categories:
+  - Isoprene synthase
+  - DMAPP
+  - Escherichia coli
+  - Mevalonate pathway 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://media.springernature.com/lw685/springer-static/image/art%253A10.1186%252Fs12870-018-1315-4/MediaObjects/12870_2018_1315_Fig1_HTML.png)Isoprene is a five-carbon chemical that is an important starting material for the synthesis of rubber, elastomers, and medicines. Although many plants produce huge amounts of isoprene, it is very difficult to obtain isoprene directly from plants because of its high volatility and increasing environmental regulations. Over the last decade, microorganisms have emerged as a promising alternative host for efficient and sustainable bioisoprene production. Isoprene synthase (IspS) has received much attention for the conversion of isoprene from dimethylallyl diphosphate (DMAPP). Herein, we isolated a highly expressible novel IspS gene from *Metrosideros polymorpha* (MpIspS), which was cloned and expressed in *Escherichia coli*, using a plant cDNA library and characterized its molecular and biochemical properties.
+
+DOI:10.1186/nar/gkac206. IF.(y). Citation . ISSN no.-.
+
+[Original article](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1315-4){.external target="_blank"}

@@ -1,0 +1,23 @@
+---
+title: "Hydrogel-Based Colorimetric Assay for Multiplexed MicroRNA Detection in a Microfluidic Device"
+subtitle: "Journal of the American Chemical Society"
+author: "Hyewon Lee, et. al."
+date: "2020-03-24"
+categories:
+  - Assays
+  - Deposition
+  - Genetics
+  - Gold
+  - Hydrogels
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](images/paste-525EB509.png)
+
+Although microRNA (miRNA) expression levels provide important information regarding disease states owing to their unique dysregulation patterns in tissues, translation of miRNA diagnostics into point-of-care (POC) settings has been limited by practical challenges. Here, we developed a hydrogel-based microfluidic platform for colorimetric profiling of miRNAs, without the use of complex external equipment for fluidics and imaging. For sensitive and reliable measurement without the risk of sequence bias, we employed a gold deposition-based signal amplification scheme and dark-field imaging, and seamlessly integrated a previously developed miRNA assay scheme into this platform. The assay demonstrated a limit of detection of 260 fM, along with multiplexing of small panels of miRNAs in healthy and cancer samples. We anticipate this versatile platform to facilitate a broad range of POC profiling of miRNAs in cancer-associated dysregulation with high-confidence by exploiting the unique features of hydrogel substrate in an on-chip format and colorimetric analysis.
+
+DOI:10.1093/nar/gkac206. IF.(y). Citation . ISSN no.5750-5755.
+
+[Original article](https://pubs.acs.org/doi/10.1021/acs.analchem.9b05043){.external target="_blank"}

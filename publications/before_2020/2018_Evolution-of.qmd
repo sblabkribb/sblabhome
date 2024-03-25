@@ -1,0 +1,19 @@
+---
+title: "Evolution of enzymes with new specificity by high-throughput screening using DmpR-based genetic circuits and multiple flow cytometry rounds"
+subtitle: "Scientific Reports"
+author: "Kil Koang Kwon, et. al."
+date: "2018-02-22"
+categories:
+  - 
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](https://media.springernature.com/lw685/springer-static/image/art%253A10.1038%252Fs41598-018-20943-8/MediaObjects/41598_2018_20943_Fig1_HTML.jpg)
+
+Genetic circuit-based biosensors are useful in detecting target metabolites or *in vivo* enzymes using transcription factors (Tx) as a molecular switch to express reporter signals, such as cellular fluorescence and antibiotic resistance. Herein, a phenol-detecting Tx (DmpR) was employed as a critical tool for enzyme engineering, specifically for the rapid analysis of numerous mutants with multiple mutations at the active site of tryptophan-indole lyase (TIL, EC 4.1.99.1). Cellular fluorescence was monitored cell-by-cell using flow cytometry to detect the creation of phenolic compounds by a new tyrosine-phenol-lyase (TPL, EC 4.1.99.2). In the TIL scaffold, target amino acids near the indole ring (Asp^137^, Phe^304^, Val^394^, Ile^396^ and His^463^) were mutated randomly to construct a large diversity of specificity variations. Collection of candidate positives by cell sorting using flow cytometry and subsequent shuffling of beneficial mutations identified a critical hit with four mutations (D137P, F304D, V394L, and I396R) in the TIL sequence. The variant displayed one-thirteenth the level of TPL activity, compared with native TPLs, and completely lost the original TIL activity. The findings demonstrate that hypersensitive, Tx-based biosensors could be useful critically to generate new activity from a related template, which would alleviate the current burden to high-throughput screening.
+
+DOI:10.1038/nar/gkac206. IF.(y). Citation . ISSN no.2045-2322.
+
+[Original article](https://www.nature.com/articles/s41598-018-20943-8){.external target="_blank"}
