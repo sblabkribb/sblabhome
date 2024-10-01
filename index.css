@@ -5,8 +5,8 @@
 .hero-container {
   overflow: hidden;
   position: relative;
-  max-height: 62vh;
-  height: 62vh;
+  max-height: 52vh;
+  height: 52vh;
 }
 
 .hero-image {
@@ -82,7 +82,7 @@
 @media (max-height: 876px) {
   .hero-container {
     max-height: 75vh;
-    height: 66vh;
+    height: 46vh;
     display: flex;
   }
 }
