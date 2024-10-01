@@ -1,0 +1,242 @@
+{
+  "members/Jhshin.qmd": {
+    "Jhshin.html": "aa203976"
+  },
+  "about.qmd": {
+    "about.html": "507d17b3"
+  },
+  "members/dhlee.qmd": {
+    "dhlee.html": "c9661921"
+  },
+  "members/haseong.qmd": {
+    "haseong.html": "3e6bc670"
+  },
+  "members/hwlee.qmd": {
+    "hwlee.html": "44c5e3f5"
+  },
+  "members/Kil_Koang_Kwon.qmd": {
+    "Kil_Koang_Kwon.html": "beab62f3"
+  },
+  "members/Seongkeun.qmd": {
+    "Seongkeun.html": "b73d03c6"
+  },
+  "members/sglee.qmd": {
+    "sglee.html": "0e319307"
+  },
+  "news/2022/d-threonine.qmd": {
+    "d-threonine.html": "e25deb5f"
+  },
+  "news/2022/korea-science-technology-fair-2022.qmd": {
+    "korea-science-technology-fair-2022.html": "109b2418"
+  },
+  "news/2022/kribb-conference-synthetic-biology.qmd": {
+    "kribb-conference-synthetic-biology.html": "ed0ffaf9"
+  },
+  "news/2023/38th-kribb.qmd": {
+    "38th-kribb.html": "32bd6bbd"
+  },
+  "news/2023/antibiotics-free.qmd": {
+    "antibiotics-free.html": "70d7d92f"
+  },
+  "news/2023/KSEE_12th_conference.qmd": {
+    "KSEE_12th_conference.html": "196728ea"
+  },
+  "news/2023/supply_chain_us_china.qmd": {
+    "supply_chain_us_china.html": "6a30750f"
+  },
+  "news2022.qmd": {
+    "news2022.html": "a75bca4c"
+  },
+  "news2023.qmd": {
+    "news2023.html": "98aa75d1"
+  },
+  "alumni/blank.qmd": {
+    "blank.html": "595f0654"
+  },
+  "people_alumni.qmd": {
+    "people_alumni.html": "ea585c19"
+  },
+  "people_members.qmd": {
+    "people_members.html": "f8ec4f2a"
+  },
+  "publications/since_2020/choe_synthetic_3-utr_valves_for_optimal.qmd": {
+    "choe_synthetic_3-utr_valves_for_optimal.html": "5f9d61a0"
+  },
+  "publications/since_2020/jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.qmd": {
+    "jiyoeng-a_highly_efficient_and_versatile_genetic_engineering_toolkit.html": "ebf19ee6"
+  },
+  "publications/since_2020/kilkoang_antagonistic_control_of_genetic.qmd": {
+    "kilkoang_antagonistic_control_of_genetic.html": "97bbc7cb"
+  },
+  "publications/since_2020/Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.qmd": {
+    "Park_Fluorescence-activated_cell_sorting-mediated_directed_evolution.html": "d67fdb2d"
+  },
+  "publications/since_2020/Seong Keun_crispr-basd_programmable_logic_inverter.qmd": {
+    "Seong Keun_crispr-basd_programmable_logic_inverter.html": "77b1c2a9"
+  },
+  "publications/since_2020/seong-kun-novel-high-throughput-dna-part.qmd": {
+    "seong-kun-novel-high-throughput-dna-part.html": "fb596e07"
+  },
+  "publications/since_2020/Yeom_Single_cell-based_screening_and_engineering.qmd": {
+    "Yeom_Single_cell-based_screening_and_engineering.html": "4be6fca2"
+  },
+  "index.qmd": {
+    "index.html": "a796c996"
+  },
+  "publications/before_2020/blank.qmd": {
+    "blank.html": "097a1a4c"
+  },
+  "publications_before_2020.qmd": {
+    "publications_before_2020.html": "3cdead2d"
+  },
+  "publications_since_2020.qmd": {
+    "publications_since_2020.html": "2dd3da04"
+  },
+  "research.qmd": {
+    "research.html": "a6ca2403"
+  },
+  "publications/before_2020/2016_A_cell-cell.qmd": {
+    "2016_A_cell-cell.html": "e05a9e4d"
+  },
+  "publications/before_2020/2016_A_molecular.qmd": {
+    "2016_A_molecular.html": "5b35f652"
+  },
+  "publications/before_2020/2016_CRISPR_interference.qmd": {
+    "2016_CRISPR_interference.html": "1e90077f"
+  },
+  "publications/before_2020/2016_Encoded_hydrogel.qmd": {
+    "2016_Encoded_hydrogel.html": "da221a85"
+  },
+  "publications/before_2020/2016_Improved_metagenome.qmd": {
+    "2016_Improved_metagenome.html": "428c471f"
+  },
+  "publications/before_2020/2016_Molecular_insight.qmd": {
+    "2016_Molecular_insight.html": "56a65c7f"
+  },
+  "publications/before_2020/2016_Multi-enzyme.qmd": {
+    "2016_Multi-enzyme.html": "c108d611"
+  },
+  "publications/before_2020/2016_Structure_PoxR.qmd": {
+    "2016_Structure_PoxR.html": "66d445fa"
+  },
+  "publications/before_2020/2017_Controlled_aggregayion.qmd": {
+    "2017_Controlled_aggregayion.html": "9ea28f4a"
+  },
+  "publications/before_2020/2017_CRISPR_interference.qmd": {
+    "2017_CRISPR_interference.html": "cbdb75bc"
+  },
+  "publications/before_2020/2017_Efficient_Tc_gene.qmd": {
+    "2017_Efficient_Tc_gene.html": "7ebc7820"
+  },
+  "publications/before_2020/2017_Leucine_zipper.qmd": {
+    "2017_Leucine_zipper.html": "c589f6eb"
+  },
+  "publications/before_2020/2017_Tunable_control.qmd": {
+    "2017_Tunable_control.html": "5724e233"
+  },
+  "publications/before_2020/2018Structural.qmd": {
+    "2018Structural.html": "2a8b5491"
+  },
+  "publications/before_2020/2018_Development-of.qmd": {
+    "2018_Development-of.html": "94e8736c"
+  },
+  "publications/before_2020/2018_Evolution-of.qmd": {
+    "2018_Evolution-of.html": "39c2d95d"
+  },
+  "publications/before_2020/2018_Molecular.qmd": {
+    "2018_Molecular.html": "b5e0ac9a"
+  },
+  "publications/before_2020/2019_AI-big-data.qmd": {
+    "2019_AI-big-data.html": "6f69e24f"
+  },
+  "publications/before_2020/2019_artificial_biosensor.qmd": {
+    "2019_artificial_biosensor.html": "37239747"
+  },
+  "publications/before_2020/2019_Biological-valorization.qmd": {
+    "2019_Biological-valorization.html": "cf3eb33f"
+  },
+  "publications/before_2020/2019_CRISPRi-mediated.qmd": {
+    "2019_CRISPRi-mediated.html": "78b5ef89"
+  },
+  "publications/before_2020/2019_Enhanced-Bisabolol.qmd": {
+    "2019_Enhanced-Bisabolol.html": "e58ff8be"
+  },
+  "publications/before_2020/2019_Evaluation-of-T4.qmd": {
+    "2019_Evaluation-of-T4.html": "33a6528d"
+  },
+  "publications/before_2020/choe_synthetic_3-utr_valves_for_optimal.qmd": {
+    "choe_synthetic_3-utr_valves_for_optimal.html": "927527fe"
+  },
+  "publications/since_2020/2020_A designed_whole.qmd": {
+    "2020_A designed_whole.html": "adb11ae2"
+  },
+  "publications/since_2020/2020_Acclimation-of-bacterial.qmd": {
+    "2020_Acclimation-of-bacterial.html": "ddd72e67"
+  },
+  "publications/since_2020/2020_Adaptive-laboratory.qmd": {
+    "2020_Adaptive-laboratory.html": "1f809725"
+  },
+  "publications/since_2020/2020_Complete-genome.qmd": {
+    "2020_Complete-genome.html": "255f077b"
+  },
+  "publications/since_2020/2020_CRISPRi-gene.qmd": {
+    "2020_CRISPRi-gene.html": "1bb7a9e8"
+  },
+  "publications/since_2020/2020_Discovery-and-Biochemical.qmd": {
+    "2020_Discovery-and-Biochemical.html": "2c8d71f7"
+  },
+  "publications/since_2020/2020_Genetically-encoded.qmd": {
+    "2020_Genetically-encoded.html": "048d4067"
+  },
+  "publications/since_2020/2020_Hydrogen-based.qmd": {
+    "2020_Hydrogen-based.html": "811011d5"
+  },
+  "publications/since_2020/2020_Machine-learning.qmd": {
+    "2020_Machine-learning.html": "1bd5f60d"
+  },
+  "publications/since_2020/2020_Sensitive-and-rapid.qmd": {
+    "2020_Sensitive-and-rapid.html": "d1ee7512"
+  },
+  "publications/since_2020/2020_Tetrameric-architecture.qmd": {
+    "2020_Tetrameric-architecture.html": "a69fb916"
+  },
+  "publications/since_2020/2021_Antagonistic.qmd": {
+    "2021_Antagonistic.html": "31bdcef8"
+  },
+  "publications/since_2020/2021_Biosensor-based.qmd": {
+    "2021_Biosensor-based.html": "fc041f8c"
+  },
+  "publications/since_2020/2021_bisabolol-production.qmd": {
+    "2021_bisabolol-production.html": "a4ef05bc"
+  },
+  "publications/since_2020/2021_Cb-selectibe.qmd": {
+    "2021_Cb-selectibe.html": "2ace6e6e"
+  },
+  "publications/since_2020/2021_Droplet-contact.qmd": {
+    "2021_Droplet-contact.html": "41400bfd"
+  },
+  "publications/since_2020/2021_Engineering-BT.qmd": {
+    "2021_Engineering-BT.html": "96c704e7"
+  },
+  "publications/since_2020/2021_online-Adaptive.qmd": {
+    "2021_online-Adaptive.html": "e81f2dd4"
+  },
+  "publications/since_2020/2021_yntrophin-co.qmd": {
+    "2021_yntrophin-co.html": "9b397f43"
+  },
+  "publications/since_2020/2022_A-highly-efficinet.qmd": {
+    "2022_A-highly-efficinet.html": "bcc5af2f"
+  },
+  "publications/since_2020/2022_CRISPR-based.qmd": {
+    "2022_CRISPR-based.html": "b575b18a"
+  },
+  "publications/since_2020/2022_Novel-HT-DNA.qmd": {
+    "2022_Novel-HT-DNA.html": "5ca61053"
+  },
+  "publications/since_2020/2022_Single-cell-based.qmd": {
+    "2022_Single-cell-based.html": "92dd8b44"
+  },
+  "publications/since_2020/2022_Synthetic-3-UTR.qmd": {
+    "2022_Synthetic-3-UTR.html": "e758551c"
+  }
+}

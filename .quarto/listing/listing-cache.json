@@ -1,0 +1,22 @@
+{
+  "listingMap": {
+    "news2022.qmd": [
+      "news/2022/*.qmd"
+    ],
+    "news2023.qmd": [
+      "news/2023/*.qmd"
+    ],
+    "people_alumni.qmd": [
+      "alumni/*.qmd"
+    ],
+    "people_members.qmd": [
+      "members/*.qmd"
+    ],
+    "publications_before_2020.qmd": [
+      "publications/before_2020/*.qmd"
+    ],
+    "publications_since_2020.qmd": [
+      "publications/since_2020/*.qmd"
+    ]
+  }
+}

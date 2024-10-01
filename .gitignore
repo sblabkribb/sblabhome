@@ -3,6 +3,5 @@
 .RData
 .Ruserdata
 CNAME
-/.quarto/
-/.luarc.json
-docs
+.quarto
+_site
