@@ -15,6 +15,7 @@
   /* liner gradient tints the image darker for readability*/
   background-image: linear-gradient( rgba(0,0,0,0), rgba(0,0,0,0) ), url(images/sblabmain2.png);
   background-size: cover;
+  background-position: 50% center;
   height: auto;
   width: 100vw;
   background-color: #141c25;
