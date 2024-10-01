@@ -5,8 +5,8 @@
 .hero-container {
   overflow: hidden;
   position: relative;
-  max-height: 52vh;
-  height: 32vh;
+  max-height: 62vh;
+  height: 62vh;
 }
 
 .hero-image {
@@ -97,7 +97,7 @@
   .hero-image {
     position: relative;
     background-attachment: scroll;
-    background-position: 84% center;
+    background-position: 50% center;
     display: block;
     padding: none;
     align-content: center;
