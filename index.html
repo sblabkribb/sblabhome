@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -65,11 +66,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-</head><body class="nav-fixed fullcontent"><div class="hero-container">
+</head><body class="nav-fixed"><div class="hero-container">
 <div class="hero-image"> 
   <div class="image-text">
-    <div class="ALA-top">ALA</div>
-    <div class="ALA-bottom">LABS</div>
+    <div class="ALA-top">Synthetic Biology Laboratory (SBLab)</div>
+    <div class="ALA-bottom">at Korea Research Institute of Bioscience and Biotechnology (KRIBB)</div>
     <div class="ALA-byline">
       Experiments in code, data analysis &amp; visualisation<br>
       from the Atlas of Living Australia
@@ -77,10 +78,10 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="credit-text">
     <span class="ALA-species-credit">
-      Southern Brown Tree Frog (<i>Litoria ewingii</i>)<br>
+      Biofoundry-<i>beta</i> at KRIBB <br>
     </span>
     <span class="ALA-image-credit">
-      <i class="fas fa-camera"></i>   by Third Silence Nature Photography (CC-BY-NC)</span>
+      <i class="fas fa-camera"></i> by SBLab (CC-BY-NC)</span>
   </div>
 </div>
 </div>
@@ -138,18 +139,31 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla content">
-  <img src="images/sblabmain.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Synthetic Biology Laboratory at KRIBB</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
+  
+
+
+</header>
+
+
 <div style="font-size:20px;">
 <blockquote class="blockquote">
 <p>Establishment of a global-level technology for synthetic biology and biofoundry</p>
@@ -161,9 +175,8 @@ ul.task-list li input[type="checkbox"] {
 <p>SBLab is one of the leading synthetic biology research groups in Synthetic Biology Research Center (SBRC) of Synthetic Biology and Bioengineering Research Institute (SBBRI) at Korea Research Institute of Bioscience and Biotechnology (<a href="https://www.kribb.re.kr/kor/sub01/sub01_04_02_02_01.jsp">KRIBB</a>)</p>
 
 
-</main>  
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -184,6 +197,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
