@@ -31,7 +31,7 @@
   font-size: 100px;
   color: #ffffff;
   padding-right: 133px;
-  /* margin-bottom: -4.7rem; */
+  margin-bottom: -2.7rem; 
   font-weight: bold;
 }
 
@@ -53,20 +53,20 @@
 
 .credit-text {
   position: absolute;
-  text-align: left;
+  text-align: right;
   left: 2%;
   bottom: 5%;
 }
 
 .ALA-species-credit {
   font-size: 11px;
-  color: white;
+  color: black;
 }
 
 .ALA-image-credit {
   text-align: left;
   font-size: 14px;
-  color: white;
+  color: black;
 }
 
 @media (min-width: 992px){
