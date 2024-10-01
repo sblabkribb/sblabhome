@@ -33,6 +33,7 @@
   padding-right: 133px;
   margin-bottom: -2.7rem; 
   font-weight: bold;
+  text-shadow: 5px 5px gray;
 }
 
 .ALA-bottom {
@@ -52,7 +53,7 @@
 }
 
 .credit-text {
-  position: absolute;
+  position: relative;
   text-align: right;
   left: 2%;
   bottom: 5%;
